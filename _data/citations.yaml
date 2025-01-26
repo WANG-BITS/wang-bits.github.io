@@ -386,14 +386,13 @@
   - Joshua Goldwag
   - Ge Wang
   publisher: Nature Machine Intelligence
-  date: '2020-12-04'
+  date: '2023-06-01'
   link: https://doi.org/g824f3
   orcid: 0000-0002-2656-7705
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Dishbrain plays Pong and promises more
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
   - type: manubot
@@ -5661,6 +5660,18 @@
   publisher: Inverse Problems
   date: '2006-02-28'
   link: https://doi.org/bkrc8r
+  orcid: 0000-0002-2656-7705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmaa.2005.10.039
+  title: A general axiomatic system for image resolution quantification
+  authors:
+  - Ming Jiang
+  - Ge Wang
+  - Xiao-ming Ma
+  publisher: Journal of Mathematical Analysis and Applications
+  date: '2006-03-01'
+  link: https://doi.org/dn6kdv
   orcid: 0000-0002-2656-7705
   plugin: orcid.py
   file: orcid.yaml
