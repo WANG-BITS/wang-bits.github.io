@@ -1,6 +1,6 @@
 - id: doi:10.1038/s42256-023-00666-w
   type: paper
-  description: Dishbrain plays Pong and promises more
+  description: An in vitro biological system of cultured brain cells has learned to play Pong. This feat opens up an avenue towards the convergence of biological and machine intelligence.
   date: 2023-06-01
   image: https://en.wikipedia.org/wiki/Nature_Machine_Intelligence#/media/File:Nature_Machine_Intelligence_journal_cover_volume_1_issue_1.png
   buttons:
