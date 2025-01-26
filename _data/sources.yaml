@@ -1,7 +1,7 @@
 - id: doi:10.1038/s42256-023-00666-w
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
+  description: Dishbrain plays Pong and promises more
+  date: 2023-06-01
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
     - type: manubot
