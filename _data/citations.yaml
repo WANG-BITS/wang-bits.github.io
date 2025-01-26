@@ -392,7 +392,9 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Dishbrain plays Pong and promises more
+  description: An in vitro biological system of cultured brain cells has learned to
+    play Pong. This feat opens up an avenue towards the convergence of biological
+    and machine intelligence.
   image: https://en.wikipedia.org/wiki/Nature_Machine_Intelligence#/media/File:Nature_Machine_Intelligence_journal_cover_volume_1_issue_1.png
   buttons:
   - type: website
