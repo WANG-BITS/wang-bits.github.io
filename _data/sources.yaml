@@ -2,19 +2,15 @@
   type: paper
   description: Dishbrain plays Pong and promises more
   date: 2023-06-01
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: https://en.wikipedia.org/wiki/Nature_Machine_Intelligence#/media/File:Nature_Machine_Intelligence_journal_cover_volume_1_issue_1.png
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
     - type: website
-      link: http://manubot.org/
+      link: https://www.nature.com/articles/s42256-023-00666-w
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - Biomedical engineering
+    - -Cognitive neuroscience
+    - Problem solving
+  repo: WANG-BITS/wang-bits.github.io
 
-- id: doi:10.48550/arXiv.2412.14112
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: arXiv:2412.14112
+  image: https://simple.wikipedia.org/wiki/ArXiv#/media/File:ArXiv_logo_2022.png
