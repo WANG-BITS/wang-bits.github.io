@@ -7,14 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At Wang-BITS lab, we are working on Synthetic Biological Intelligence (SBI) and Organoid Intelligence (OI), with the goal of inducing intelligent behavior in lab-grown in vitro neuron cultures. Our goal are as follows:
+  * To study the functionality of these lab-grown biological neural networks (BNNs), uncover their mysteries, and model their behavior with deep learning architecture, potentially leading to NeuroAI, the fusion of biological and artificial intelligence.
+  * To study the functional aspects (electrophysiology, metabolism) of these in vitro  BNNs, and study how thy are affected by external factors (such as electrical, optical or mechanical stimulation) as well as neurodegenerative diseases such as Alzheimer's disease or Parkinson's disease,  and neurodevelopmental disorders, such as Attention-deficit/hyperactivity disorder (ADHD) or Autism spectrum disorder (ASD).
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="DishBrain plays Pong and promises more" style="rich" %}
 
 {% include section.html %}
 
