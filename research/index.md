@@ -26,5 +26,4 @@ At Wang-BITS lab, we are working on Synthetic Biological Intelligence (SBI) and 
 {% include search-info.html %}
 
 <!---{% include list.html data="citations" component="citation" style="rich" %}--->
-{% include list.html data="citations" component="citation" filters="authors.contains('Dhruvik') or authors.contains('Goldwag') or authors.contains(Kagan)" %}
-
+{% include list.html data="citations" component="citation" filters="authors =~ /Dhruvik/i or authors =~ /Goldwag/i or authors =~ /Kagan/i" %}
