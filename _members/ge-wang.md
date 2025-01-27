@@ -1,7 +1,7 @@
 ---
-name: Ge Wang
+name: Md Sayed Tanveer
 image: images/photo.jpg
-role: PI
+role: student
 group: alum
 links:
   github: john-doe
