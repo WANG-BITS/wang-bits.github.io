@@ -1,14 +1,14 @@
 ---
-name: Jane Smith
+name: Ge Wang
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Rensselaer Polytechnic Institute
 aliases:
-  - J. Smith
-  - J Smith
+  - G. Wang
+  - G Wang
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://faculty.rpi.edu/ge-wang
+  orcid: 0000-0002-2656-7705
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
