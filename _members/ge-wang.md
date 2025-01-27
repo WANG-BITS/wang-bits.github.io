@@ -1,7 +1,7 @@
 ---
-name: John Doe
+name: Ge Wang
 image: images/photo.jpg
-role: phd
+role: PI
 group: alum
 links:
   github: john-doe
