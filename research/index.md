@@ -27,7 +27,7 @@ At Wang-BITS lab, we are working on Synthetic Biological Intelligence (SBI) and 
 
 <ul>
   {% for citation in site.data.citations %}
-    {% if citation.date >= '2020-01-01' and citation.date <= '2023-12-31' %}
+    {% if authors =~ /Dhruvik/i or authors =~ /Goldwag/i or authors =~ /Kagan/i %}
       <li style="color: green;">{{ citation.title }} ({{ citation.date }}) - Passed Filter</li>
     {% else %}
       <li style="color: red;">{{ citation.title }} ({{ citation.date }}) - Failed Filter</li>
