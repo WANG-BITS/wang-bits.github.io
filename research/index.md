@@ -27,13 +27,18 @@ At Wang-BITS lab, we are working on Synthetic Biological Intelligence (SBI) and 
 
 <ul>
   {% for citation in site.data.citations %}
-    {% if authors =~ /Dhruvik/i or authors =~ /Goldwag/i or authors =~ /Kagan/i %}
-      <li style="color: green;">{{ citation.title }} ({{ citation.date }}) - Passed Filter</li>
-    {% else %}
-      <li style="color: red;">{{ citation.title }} ({{ citation.date }}) - Failed Filter</li>
+    {% assign match_found = false %}
+    {% for author in citation.authors %}
+      {% if author =~ /Dhruvik/i or author =~ /Goldwag/i or author =~ /Kagan/i %}
+        {% assign match_found = true %}
+      {% endif %}
+    {% endfor %}
+    {% if match_found %}
+      <li>{{ citation.title }} - Authors: {{ citation.authors | join: ', ' }}</li>
     {% endif %}
   {% endfor %}
 </ul>
+
 
 <!---{% include list.html data="citations" component="citation" style="rich" %}--->
 {% include list.html data="citations" component="citation" filters="authors =~ /Dhruvik/i or authors =~ /Goldwag/i or authors =~ /Kagan/i" %}
