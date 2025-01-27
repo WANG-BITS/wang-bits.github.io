@@ -5,6 +5,8 @@
   | data_filter: include.filter
 %}
 
+<p>Filter applied: {{ include.filter }}</p>
+
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
