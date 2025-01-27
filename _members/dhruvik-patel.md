@@ -1,8 +1,8 @@
 ---
 name: Dhruvik Patel
 image: images/dhruvik.jfif
-description: phd
-role: Student
+role: phd
+description: Student
 links:
   linkedin: dhruvikp
 ---
