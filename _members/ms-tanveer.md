@@ -4,7 +4,7 @@ image: images/derik.jpg
 role: phd
 description: Co-investigator
 group: current
-alias:
+aliases:
   - Md Sayed Tanveer
 links:
   google-scholar: r7_LAU8AAAAJ
