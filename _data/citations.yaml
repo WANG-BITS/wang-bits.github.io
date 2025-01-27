@@ -14,6 +14,7 @@
   date: '2025-01-22'
   link: https://doi.org/g824fb
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TNNLS.2023.3331380
@@ -28,6 +29,7 @@
   date: '2025-01-01'
   link: https://doi.org/g69w69
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TRPMS.2024.3433575
@@ -48,6 +50,7 @@
   date: '2025-01-01'
   link: https://doi.org/g824fc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.metrad.2024.100113
@@ -65,6 +68,7 @@
   date: '2024-12-01'
   link: https://doi.org/g824fd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2024.3416398
@@ -83,6 +87,7 @@
   date: '2024-10-01'
   link: https://doi.org/g8mgsp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2024.3418652
@@ -97,6 +102,7 @@
   date: '2024-10-01'
   link: https://doi.org/g824ff
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TRPMS.2024.3410092
@@ -114,6 +120,7 @@
   date: '2024-09-01'
   link: https://doi.org/g6vksp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6560/ad4447
@@ -131,6 +138,7 @@
   date: '2024-07-19'
   link: https://doi.org/g824fg
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s42492-024-00161-y
@@ -148,6 +156,7 @@
   date: '2024-06-11'
   link: https://doi.org/g824fh
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6560/ad3db9
@@ -164,6 +173,7 @@
   date: '2024-04-30'
   link: https://doi.org/g824fj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s42256-024-00840-8
@@ -174,6 +184,7 @@
   date: '2024-05-10'
   link: https://doi.org/g824fk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2024.3351723
@@ -189,6 +200,7 @@
   date: '2024-05-01'
   link: https://doi.org/g824fm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2024.3351722
@@ -206,6 +218,7 @@
   date: '2024-05-01'
   link: https://doi.org/g5wzr6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/biomedinformatics4020050
@@ -219,6 +232,7 @@
   date: '2024-04-01'
   link: https://doi.org/g824fn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2023.3325824
@@ -233,6 +247,7 @@
   date: '2024-03-01'
   link: https://doi.org/g824fp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TRPMS.2023.3341903
@@ -248,6 +263,7 @@
   date: '2024-02-01'
   link: https://doi.org/g824fq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TRPMS.2023.3314131
@@ -265,6 +281,7 @@
   date: '2024-02-01'
   link: https://doi.org/gtsxtm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1148/ryai.220221
@@ -280,6 +297,7 @@
   date: '2024-01-01'
   link: https://doi.org/g824fr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2024.3484294
@@ -293,6 +311,7 @@
   date: '2024-01-01'
   link: https://doi.org/g824fs
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2024.3494271
@@ -311,6 +330,7 @@
   date: '2024-01-01'
   link: https://doi.org/g824ft
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.20944/preprints202311.0250.v1
@@ -322,6 +342,7 @@
   date: '2023-11-03'
   link: https://doi.org/g824fv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6560/acf9da
@@ -339,6 +360,7 @@
   date: '2023-10-02'
   link: https://doi.org/g824fw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.metrad.2023.100019
@@ -352,6 +374,7 @@
   date: '2023-09-01'
   link: https://doi.org/g824fx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/AO.495129
@@ -363,6 +386,7 @@
   date: '2023-07-25'
   link: https://doi.org/g824fz
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.artmed.2023.102555
@@ -378,6 +402,7 @@
   date: '2023-08-01'
   link: https://doi.org/g824f2
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s42256-023-00666-w
@@ -389,6 +414,7 @@
   date: '2023-06-01'
   link: https://doi.org/g824f3
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -413,6 +439,7 @@
   date: '2023-06-01'
   link: https://doi.org/g824f4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2022.3231428
@@ -429,6 +456,7 @@
   date: '2023-06-01'
   link: https://doi.org/gsj9hv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/MSP.2022.3204407
@@ -443,6 +471,7 @@
   date: '2023-03-01'
   link: https://doi.org/g824f6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s42492-023-00130-x
@@ -456,6 +485,7 @@
   date: '2023-01-23'
   link: https://doi.org/g824f7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6560/aca069
@@ -471,6 +501,7 @@
   date: '2022-12-16'
   link: https://doi.org/g824f8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TRPMS.2022.3187595
@@ -488,6 +519,7 @@
   date: '2023-01-01'
   link: https://doi.org/g824f9
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s42256-022-00549-6
@@ -508,6 +540,7 @@
   date: '2022-11-15'
   link: https://doi.org/gr78c4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6560/ac92ba
@@ -519,6 +552,7 @@
   date: '2022-10-07'
   link: https://doi.org/gq8b5t
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1148/radiol.221372
@@ -531,6 +565,7 @@
   date: '2022-10-01'
   link: https://doi.org/gsj9mz
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.patcog.2022.108827
@@ -553,6 +588,7 @@
   date: '2022-10-01'
   link: https://doi.org/gqbqj9
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s42492-022-00118-z
@@ -565,6 +601,7 @@
   date: '2022-09-28'
   link: https://doi.org/g824gb
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/jpm12081314
@@ -579,6 +616,7 @@
   date: '2022-08-14'
   link: https://doi.org/g7w2sf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TAI.2021.3128132
@@ -595,6 +633,7 @@
   date: '2022-08-01'
   link: https://doi.org/g824gc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-1897856/v1
@@ -610,6 +649,7 @@
   date: '2022-07-29'
   link: https://doi.org/g824gd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6560/ac7999
@@ -628,6 +668,7 @@
   date: '2022-07-08'
   link: https://doi.org/g824gf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TRPMS.2021.3122071
@@ -645,6 +686,7 @@
   date: '2022-07-01'
   link: https://doi.org/g824gg
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/JOSAA.451319
@@ -659,6 +701,7 @@
   date: '2022-04-15'
   link: https://doi.org/g824gh
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.20944/preprints202204.0219.v1
@@ -672,6 +715,7 @@
   date: '2022-04-25'
   link: https://doi.org/g824gj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6560/ac5b21
@@ -687,6 +731,7 @@
   date: '2022-03-25'
   link: https://doi.org/g824gk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/JPROC.2022.3141367
@@ -705,6 +750,7 @@
   date: '2022-02-01'
   link: https://doi.org/gpfmx6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TIP.2022.3221290
@@ -717,6 +763,7 @@
   date: '2022-01-01'
   link: https://doi.org/gr6mcg
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ACCESS.2022.3208278
@@ -731,6 +778,7 @@
   date: '2022-01-01'
   link: https://doi.org/g824gm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6560/ac34b2
@@ -751,6 +799,7 @@
   date: '2021-12-06'
   link: https://doi.org/g59qb3
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2021.3115547
@@ -766,6 +815,7 @@
   date: '2021-11-01'
   link: https://doi.org/gncq8n
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TRPMS.2021.3066428
@@ -779,6 +829,7 @@
   date: '2021-11-01'
   link: https://doi.org/gj49d9
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1148/radiol.2021210395
@@ -791,6 +842,7 @@
   date: '2021-06-01'
   link: https://doi.org/g824gn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/2632-2153/abdbff
@@ -804,6 +856,7 @@
   date: '2021-04-14'
   link: https://doi.org/g824gp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-021-23235-4
@@ -824,6 +877,7 @@
   date: '2021-05-20'
   link: https://doi.org/gm2rgr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TRPMS.2020.3025071
@@ -842,6 +896,7 @@
   date: '2021-03-01'
   link: https://doi.org/g824gq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s10489-020-01869-z
@@ -855,6 +910,7 @@
   date: '2020-09-10'
   link: https://doi.org/g824gr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2021.3073381
@@ -872,6 +928,7 @@
   date: '2021-08-01'
   link: https://doi.org/gnxtwp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-200769
@@ -883,6 +940,7 @@
   date: '2021-02-19'
   link: https://doi.org/g824gs
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2021.3078067
@@ -899,6 +957,7 @@
   date: '2021-11-01'
   link: https://doi.org/gq3jvx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/1.JBO.26.3.036004
@@ -917,6 +976,7 @@
   date: '2021-03-18'
   link: https://doi.org/gmr5zm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s42256-020-00273-z
@@ -929,6 +989,7 @@
   date: '2020-12-10'
   link: https://doi.org/gjhg3k
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-92324/v1
@@ -941,6 +1002,7 @@
   date: '2020-10-22'
   link: https://doi.org/g824gt
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/2632-2153/ab869f
@@ -956,6 +1018,7 @@
   date: '2020-06-23'
   link: https://doi.org/gg898w
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.20944/preprints202005.0502.v1
@@ -969,6 +1032,7 @@
   date: '2020-05-31'
   link: https://doi.org/g824gv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.20944/preprints202004.0327.v1
@@ -983,6 +1047,7 @@
   date: '2020-04-19'
   link: https://doi.org/g824gw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.neunet.2020.01.007
@@ -995,6 +1060,7 @@
   date: '2020-04-01'
   link: https://doi.org/g824gx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/mp.14131
@@ -1016,6 +1082,7 @@
   date: '2020-04-03'
   link: https://doi.org/gjmvc6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/jbhi.2019.2946066
@@ -1030,6 +1097,7 @@
   date: '2020-02-01'
   link: https://doi.org/grfcng
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.media.2019.101628
@@ -1046,6 +1114,7 @@
   date: '2020-02-01'
   link: https://doi.org/gng8tp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.neucom.2019.12.103
@@ -1063,6 +1132,7 @@
   date: '2020-04-01'
   link: https://doi.org/gkx3m6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2019.2922960
@@ -1087,6 +1157,7 @@
   date: '2020-01-01'
   link: https://doi.org/gsj9jm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.neucom.2019.09.001
@@ -1098,6 +1169,7 @@
   date: '2020-01-01'
   link: https://doi.org/g824gz
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/mp.14170
@@ -1120,6 +1192,7 @@
   date: '2020-04-30'
   link: https://doi.org/gpmx6g
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ACCESS.2020.3046187
@@ -1139,6 +1212,7 @@
   date: '2020-01-01'
   link: https://doi.org/g824g2
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ACCESS.2020.3033795
@@ -1157,6 +1231,7 @@
   date: '2020-01-01'
   link: https://doi.org/gn39c8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/1.JNP.14.016009
@@ -1167,6 +1242,7 @@
   date: '2020-02-14'
   link: https://doi.org/g824g3
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41598-020-66690-7
@@ -1184,6 +1260,7 @@
   date: '2020-06-18'
   link: https://doi.org/g824g4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s11060-019-03368-9
@@ -1210,6 +1287,7 @@
   date: '2020-01-01'
   link: https://doi.org/gg3bmb
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ACCESS.2020.2986388
@@ -1226,6 +1304,7 @@
   date: '2020-01-01'
   link: https://doi.org/g824g5
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tci.2020.2964201
@@ -1238,6 +1317,7 @@
   date: '2020-01-01'
   link: https://doi.org/gkz3gq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s42492-020-00063-9
@@ -1250,6 +1330,7 @@
   date: '2020-11-20'
   link: https://doi.org/g824g6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2020.2974858
@@ -1266,6 +1347,7 @@
   date: '2020-09-01'
   link: https://doi.org/gh7hdv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2549387
@@ -1280,6 +1362,7 @@
   date: '2020-03-16'
   link: https://doi.org/g824g8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2019.2963248
@@ -1298,6 +1381,7 @@
   date: '2020-06-01'
   link: https://doi.org/gsj9gt
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TCI.2020.3013796
@@ -1311,6 +1395,7 @@
   date: '2020-01-01'
   link: https://doi.org/g824g9
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.patter.2020.100128
@@ -1325,6 +1410,7 @@
   date: '2020-11-01'
   link: https://doi.org/g824hb
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2544601
@@ -1342,6 +1428,7 @@
   date: '2020-02-25'
   link: https://doi.org/g824hc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/bioengineering6040111
@@ -1355,6 +1442,7 @@
   date: '2019-12-09'
   link: https://doi.org/g824hd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cam.2019.05.010
@@ -1373,6 +1461,7 @@
   date: '2019-12-01'
   link: https://doi.org/gnfbbx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/mp.13640
@@ -1393,6 +1482,7 @@
   date: '2019-12-01'
   link: https://doi.org/g824hf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6560/ab4e3e
@@ -1412,6 +1502,7 @@
   date: '2019-11-26'
   link: https://doi.org/g824hg
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/mp.13762
@@ -1430,6 +1521,7 @@
   date: '2019-09-20'
   link: https://doi.org/g824hh
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/nop/npz004
@@ -1457,6 +1549,7 @@
   date: '2019-02-05'
   link: https://doi.org/gm4s5c
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tci.2019.2904207
@@ -1475,6 +1568,7 @@
   date: '2019-09-01'
   link: https://doi.org/g824hj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/lsp.2019.2922851
@@ -1490,6 +1584,7 @@
   date: '2019-08-01'
   link: https://doi.org/g824hk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/nano9081092
@@ -1506,6 +1601,7 @@
   date: '2019-07-30'
   link: https://doi.org/g824hm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6560/ab1149
@@ -1521,6 +1617,7 @@
   date: '2019-07-02'
   link: https://doi.org/g824hn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/app9132615
@@ -1534,6 +1631,7 @@
   date: '2019-06-28'
   link: https://doi.org/g824hp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/1.jmi.6.2.025503
@@ -1548,6 +1646,7 @@
   date: '2019-06-21'
   link: https://doi.org/g824hq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1148/radiol.2019190613
@@ -1570,6 +1669,7 @@
   date: '2019-06-01'
   link: https://doi.org/gf5dm4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s42256-019-0057-9
@@ -1588,6 +1688,7 @@
   date: '2019-06-10'
   link: https://doi.org/ggwd2w
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2513037
@@ -1603,6 +1704,7 @@
   date: '2019-03-01'
   link: https://doi.org/g824hr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2534848
@@ -1616,6 +1718,7 @@
   date: '2019-05-28'
   link: https://doi.org/g824hs
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3934/ipi.2019022
@@ -1631,6 +1734,7 @@
   date: '2019-01-01'
   link: https://doi.org/g824ht
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2532331
@@ -1646,6 +1750,7 @@
   date: '2019-05-28'
   link: https://doi.org/g824hv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6560/ab26ce
@@ -1662,6 +1767,7 @@
   date: '2019-07-16'
   link: https://doi.org/g824hw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2531198
@@ -1679,6 +1785,7 @@
   date: '2019-09-10'
   link: https://doi.org/g6rf6v
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-030-13969-8_14
@@ -1698,6 +1805,7 @@
   date: '2019-01-01'
   link: https://doi.org/g824hx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s11063-019-10039-3
@@ -1715,6 +1823,7 @@
   date: '2019-04-12'
   link: https://doi.org/g824hz
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/EMBC.2019.8857180
@@ -1730,6 +1839,7 @@
   date: '2019-07-01'
   link: https://doi.org/g824h2
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2524694
@@ -1746,6 +1856,7 @@
   date: '2019-05-10'
   link: https://doi.org/g824h3
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2529698
@@ -1760,6 +1871,7 @@
   date: '2019-09-10'
   link: https://doi.org/g824h4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2534960
@@ -1773,6 +1885,7 @@
   date: '2019-09-10'
   link: https://doi.org/g824h5
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2019.2921013
@@ -1790,6 +1903,7 @@
   date: '2019-01-01'
   link: https://doi.org/ghd3p4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2530769
@@ -1802,6 +1916,7 @@
   date: '2019-09-10'
   link: https://doi.org/g824h6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2534914
@@ -1817,6 +1932,7 @@
   date: '2019-05-28'
   link: https://doi.org/g824h7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2534908
@@ -1830,6 +1946,7 @@
   date: '2019-05-28'
   link: https://doi.org/g824h8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2530363
@@ -1843,6 +1960,7 @@
   date: '2019-09-11'
   link: https://doi.org/g824h9
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2529984
@@ -1857,6 +1975,7 @@
   date: '2019-09-09'
   link: https://doi.org/g824jb
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2530522
@@ -1870,6 +1989,7 @@
   date: '2019-09-10'
   link: https://doi.org/g824jc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2019.2921303
@@ -1883,6 +2003,7 @@
   date: '2019-01-01'
   link: https://doi.org/g824jd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ISBI.2019.8759587
@@ -1899,6 +2020,7 @@
   date: '2019-04-01'
   link: https://doi.org/g824jf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2530592
@@ -1913,6 +2035,7 @@
   date: '2019-09-10'
   link: https://doi.org/g824jg
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2528281
@@ -1929,6 +2052,7 @@
   date: '2019-09-10'
   link: https://doi.org/g824jh
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2530718
@@ -1940,6 +2064,7 @@
   date: '2019-09-10'
   link: https://doi.org/g824jj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/mp.13278
@@ -1957,6 +2082,7 @@
   date: '2018-12-13'
   link: https://doi.org/g824jk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2018.2878429
@@ -1975,6 +2101,7 @@
   date: '2018-12-01'
   link: https://doi.org/g824jm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6560/aad707
@@ -1987,6 +2114,7 @@
   date: '2018-08-22'
   link: https://doi.org/g824jn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/trpms.2018.2839066
@@ -2002,6 +2130,7 @@
   date: '2018-07-01'
   link: https://doi.org/g824jp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/trpms.2018.2835312
@@ -2016,6 +2145,7 @@
   date: '2018-07-01'
   link: https://doi.org/gdvf7k
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2018.2832217
@@ -2034,6 +2164,7 @@
   date: '2018-06-01'
   link: https://doi.org/ghbjz7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2018.2833635
@@ -2047,6 +2178,7 @@
   date: '2018-06-01'
   link: https://doi.org/gfsvf4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2018.2805692
@@ -2067,6 +2199,7 @@
   date: '2018-06-01'
   link: https://doi.org/ghbx8p
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2018.2827462
@@ -2087,6 +2220,7 @@
   date: '2018-06-01'
   link: https://doi.org/gfkz9g
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-17324
@@ -2100,6 +2234,7 @@
   date: '2018-05-25'
   link: https://doi.org/gc7dvt
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/cnm.2956
@@ -2113,6 +2248,7 @@
   date: '2018-02-06'
   link: https://doi.org/gcqf94
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-17329
@@ -2128,6 +2264,7 @@
   date: '2018-04-06'
   link: https://doi.org/gc7dtd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/mp.12685
@@ -2140,6 +2277,7 @@
   date: '2017-12-12'
   link: https://doi.org/gm597x
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/1.oe.57.2.023102
@@ -2157,6 +2295,7 @@
   date: '2018-02-08'
   link: https://doi.org/g824jq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/cnm.2920
@@ -2169,6 +2308,7 @@
   date: '2017-09-15'
   link: https://doi.org/g824jr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2018.2868650
@@ -2191,6 +2331,7 @@
   date: '2018-01-01'
   link: https://doi.org/gjth6k
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-18382
@@ -2209,6 +2350,7 @@
   date: '2018-07-04'
   link: https://doi.org/gdt9c9
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2018.2826448
@@ -2221,6 +2363,7 @@
   date: '2018-01-01'
   link: https://doi.org/g824js
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2293840
@@ -2238,6 +2381,7 @@
   date: '2018-03-09'
   link: https://doi.org/gj95td
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2018/1296246
@@ -2253,6 +2397,7 @@
   date: '2018-01-01'
   link: https://doi.org/gdnntt
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2018.2858196
@@ -2273,6 +2418,7 @@
   date: '2018-01-01'
   link: https://doi.org/gkvnnz
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s11220-017-0174-7
@@ -2286,6 +2432,7 @@
   date: '2017-08-22'
   link: https://doi.org/g824jt
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2017.2715284
@@ -2303,6 +2450,7 @@
   date: '2017-12-01'
   link: https://doi.org/gf5j3d
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2017.2759819
@@ -2319,6 +2467,7 @@
   date: '2017-12-01'
   link: https://doi.org/gmxmx9
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3938/jkps.71.538
@@ -2336,6 +2485,7 @@
   date: '2017-10-21'
   link: https://doi.org/gcgw8n
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/1.jbo.22.9.096011
@@ -2348,6 +2498,7 @@
   date: '2017-09-20'
   link: https://doi.org/gcg73b
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tvcg.2016.2602858
@@ -2364,6 +2515,7 @@
   date: '2017-09-01'
   link: https://doi.org/g45m5g
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/mp.12397
@@ -2380,6 +2532,7 @@
   date: '2017-07-17'
   link: https://doi.org/g824jv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-16211
@@ -2393,6 +2546,7 @@
   date: '2017-04-05'
   link: https://doi.org/f92jbr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/mp.12204
@@ -2406,6 +2560,7 @@
   date: '2017-04-20'
   link: https://doi.org/g824jw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.amc.2016.12.001
@@ -2420,6 +2575,7 @@
   date: '2017-05-01'
   link: https://doi.org/g824jx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6560/aa5293
@@ -2438,6 +2594,7 @@
   date: '2017-03-21'
   link: https://doi.org/gh7gss
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/oe.25.009378
@@ -2454,6 +2611,7 @@
   date: '2017-04-13'
   link: https://doi.org/g824jz
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6420/aa5e0a
@@ -2466,6 +2624,7 @@
   date: '2017-03-01'
   link: https://doi.org/g824j2
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/boe.8.000679
@@ -2482,6 +2641,7 @@
   date: '2017-01-09'
   link: https://doi.org/gtr34q
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2016.2600249
@@ -2495,6 +2655,7 @@
   date: '2017-01-01'
   link: https://doi.org/gqwng8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/mp.12022
@@ -2510,6 +2671,7 @@
   date: '2017-01-01'
   link: https://doi.org/f9mr66
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1201/9781315374031
@@ -2519,6 +2681,7 @@
   date: '2017-10-31'
   link: https://doi.org/g824j3
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2253008
@@ -2537,6 +2700,7 @@
   date: '2017-02-20'
   link: https://doi.org/g824j4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2272723
@@ -2550,6 +2714,7 @@
   date: '2017-09-19'
   link: https://doi.org/g824j5
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2274427
@@ -2567,6 +2732,7 @@
   date: '2017-09-25'
   link: https://doi.org/g824j6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2254091
@@ -2582,6 +2748,7 @@
   date: '2017-03-09'
   link: https://doi.org/ggnqpg
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2016.2637660
@@ -2596,6 +2763,7 @@
   date: '2017-01-01'
   link: https://doi.org/g824j7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ISBI.2017.7950488
@@ -2612,6 +2780,7 @@
   date: '2017-04-01'
   link: https://doi.org/g8fg87
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2261456
@@ -2622,6 +2791,7 @@
   date: '2017-02-15'
   link: https://doi.org/g8f9zc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2272505
@@ -2635,6 +2805,7 @@
   date: '2017-09-19'
   link: https://doi.org/g824j8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tci.2016.2609414
@@ -2650,6 +2821,7 @@
   date: '2016-12-01'
   link: https://doi.org/g824j9
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-160586
@@ -2667,6 +2839,7 @@
   date: '2016-07-21'
   link: https://doi.org/f9gz87
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-160590
@@ -2682,6 +2855,7 @@
   date: '2016-09-03'
   link: https://doi.org/g824kb
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0266-5611/32/11/115021
@@ -2699,6 +2873,7 @@
   date: '2016-10-19'
   link: https://doi.org/ggmmqr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/term.1876
@@ -2718,6 +2893,7 @@
   date: '2014-02-26'
   link: https://doi.org/g824kc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tbme.2015.2413816
@@ -2732,6 +2908,7 @@
   date: '2016-08-01'
   link: https://doi.org/f8x8fv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-160578
@@ -2749,6 +2926,7 @@
   date: '2016-07-20'
   link: https://doi.org/f8xrf4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1152/japplphysiol.00317.2016
@@ -2765,6 +2943,7 @@
   date: '2016-05-12'
   link: https://doi.org/f8x8gg
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1152/japplphysiol.00923.2015
@@ -2780,6 +2959,7 @@
   date: '2016-06-15'
   link: https://doi.org/f8snh4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.compbiomed.2016.03.027
@@ -2802,6 +2982,7 @@
   date: '2016-06-01'
   link: https://doi.org/f8r8t2
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.4208/jcm.1608-m2016-0499
@@ -2816,6 +2997,7 @@
   date: '2016-01-01'
   link: https://doi.org/ggrkjj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tbme.2015.2487779
@@ -2832,6 +3014,7 @@
   date: '2016-06-01'
   link: https://doi.org/f8qc9d
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/61/10/3734
@@ -2845,6 +3028,7 @@
   date: '2016-04-15'
   link: https://doi.org/g824kd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0155374
@@ -2859,6 +3043,7 @@
   date: '2016-05-12'
   link: https://doi.org/gbnrtf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-160548
@@ -2874,6 +3059,7 @@
   date: '2016-03-25'
   link: https://doi.org/f8fz2z
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-160537
@@ -2898,6 +3084,7 @@
   date: '2016-03-01'
   link: https://doi.org/g824kf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-160540
@@ -2910,6 +3097,7 @@
   date: '2016-03-01'
   link: https://doi.org/f8dx4w
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-160536
@@ -2925,6 +3113,7 @@
   date: '2016-03-01'
   link: https://doi.org/f8d28p
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2016.2624938
@@ -2935,6 +3124,7 @@
   date: '2016-01-01'
   link: https://doi.org/ghbx9c
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/NSSMIC.2015.7582113
@@ -2948,6 +3138,7 @@
   date: '2015-10-01'
   link: https://doi.org/g824kg
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/61/11/4183
@@ -2961,6 +3152,7 @@
   date: '2016-05-18'
   link: https://doi.org/g824kh
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2236780
@@ -2976,6 +3168,7 @@
   date: '2016-10-03'
   link: https://doi.org/g824kj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2237840
@@ -2992,6 +3185,7 @@
   date: '2016-09-20'
   link: https://doi.org/g824kk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2016.2602854
@@ -3005,6 +3199,7 @@
   date: '2016-01-01'
   link: https://doi.org/gr9n87
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2238188
@@ -3023,6 +3218,7 @@
   date: '2016-10-21'
   link: https://doi.org/g824km
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2237818
@@ -3036,6 +3232,7 @@
   date: '2016-10-04'
   link: https://doi.org/gbgx23
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2016.2608621
@@ -3052,6 +3249,7 @@
   date: '2016-01-01'
   link: https://doi.org/gjjpxw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2016.2592941
@@ -3067,6 +3265,7 @@
   date: '2016-01-01'
   link: https://doi.org/g824kn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2238408
@@ -3081,6 +3280,7 @@
   date: '2016-10-03'
   link: https://doi.org/g824kp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.4933195
@@ -3093,6 +3293,7 @@
   date: '2015-10-19'
   link: https://doi.org/g824kq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/oe.23.026576
@@ -3108,6 +3309,7 @@
   date: '2015-10-01'
   link: https://doi.org/g824kr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-150515
@@ -3123,6 +3325,7 @@
   date: '2015-09-21'
   link: https://doi.org/g824ks
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.4929559
@@ -3142,6 +3345,7 @@
   date: '2015-09-17'
   link: https://doi.org/f7tn6z
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1089/ten.tec.2014.0345
@@ -3158,6 +3362,7 @@
   date: '2015-07-01'
   link: https://doi.org/f7xd9r
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/60/7/2803
@@ -3174,6 +3379,7 @@
   date: '2015-03-17'
   link: https://doi.org/gh5khd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2014.2359241
@@ -3188,6 +3394,7 @@
   date: '2015-03-01'
   link: https://doi.org/gc3chc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/photonics2010023
@@ -3201,6 +3408,7 @@
   date: '2015-01-07'
   link: https://doi.org/gcfjxj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tbme.2014.2347284
@@ -3217,6 +3425,7 @@
   date: '2015-01-01'
   link: https://doi.org/f6tpzx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2015.2404591
@@ -3230,6 +3439,7 @@
   date: '2015-03-01'
   link: https://doi.org/g824kt
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/NEBEC.2015.7117164
@@ -3244,6 +3454,7 @@
   date: '2015-04-01'
   link: https://doi.org/g824kv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/NEBEC.2015.7117165
@@ -3256,6 +3467,7 @@
   date: '2015-04-01'
   link: https://doi.org/g824kw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/NEBEC.2015.7117206
@@ -3268,6 +3480,7 @@
   date: '2015-04-01'
   link: https://doi.org/g824kx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3934/ipi.2015.9.579
@@ -3280,6 +3493,7 @@
   date: '2015-01-01'
   link: https://doi.org/g824kz
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ISBI.2015.7164186
@@ -3295,6 +3509,7 @@
   date: '2015-04-01'
   link: https://doi.org/g824k2
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0112143
@@ -3313,6 +3528,7 @@
   date: '2014-11-07'
   link: https://doi.org/gks3tp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/1.oe.53.11.113101
@@ -3329,6 +3545,7 @@
   date: '2014-11-03'
   link: https://doi.org/g824k3
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s11220-014-0098-4
@@ -3343,6 +3560,7 @@
   date: '2014-10-11'
   link: https://doi.org/g824k4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/ao.53.005672
@@ -3355,6 +3573,7 @@
   date: '2014-08-27'
   link: https://doi.org/gkpgdf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0103054
@@ -3368,6 +3587,7 @@
   date: '2014-07-22'
   link: https://doi.org/g824k5
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/ol.39.004156
@@ -3382,6 +3602,7 @@
   date: '2014-07-09'
   link: https://doi.org/g824k6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/1.jbo.19.7.076002
@@ -3398,6 +3619,7 @@
   date: '2014-07-02'
   link: https://doi.org/f6fcxr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/sca.21127
@@ -3412,6 +3634,7 @@
   date: '2013-11-25'
   link: https://doi.org/f6dxhf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/sca.21140
@@ -3433,6 +3656,7 @@
   date: '2014-03-06'
   link: https://doi.org/f6dt36
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.4876724
@@ -3448,6 +3672,7 @@
   date: '2014-05-28'
   link: https://doi.org/g824k7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1061/(asce)em.1943-7889.0000695
@@ -3461,6 +3686,7 @@
   date: '2014-05-01'
   link: https://doi.org/f54fvd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/isbi.2014.6868082
@@ -3472,6 +3698,7 @@
   date: '2014-04-01'
   link: https://doi.org/g824k8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/oe.22.005572
@@ -3485,6 +3712,7 @@
   date: '2014-03-04'
   link: https://doi.org/gksvhf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tbme.2013.2294677
@@ -3498,6 +3726,7 @@
   date: '2014-03-01'
   link: https://doi.org/f5vw2n
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1666/13-062
@@ -3513,6 +3742,7 @@
   date: '2014-03-01'
   link: https://doi.org/f5vqfx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.4863510
@@ -3529,6 +3759,7 @@
   date: '2014-02-14'
   link: https://doi.org/g824k9
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tbme.2013.2279673
@@ -3549,6 +3780,7 @@
   date: '2014-02-01'
   link: https://doi.org/f5v3sx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2014.2363367
@@ -3564,6 +3796,7 @@
   date: '2014-01-01'
   link: https://doi.org/g824mb
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-140416
@@ -3580,6 +3813,7 @@
   date: '2014-01-01'
   link: https://doi.org/g54zcn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2062144
@@ -3597,6 +3831,7 @@
   date: '2014-09-13'
   link: https://doi.org/g824mc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2038662
@@ -3612,6 +3847,7 @@
   date: '2014-02-17'
   link: https://doi.org/g824md
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1142/9789814611107_0006
@@ -3625,6 +3861,7 @@
   date: '2014-09-03'
   link: https://doi.org/g824mf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2065459
@@ -3641,6 +3878,7 @@
   date: '2014-09-11'
   link: https://doi.org/g7xv6c
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2014.2371994
@@ -3653,6 +3891,7 @@
   date: '2014-01-01'
   link: https://doi.org/g824mg
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2037890
@@ -3668,6 +3907,7 @@
   date: '2014-02-17'
   link: https://doi.org/g824mh
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2014.2384851
@@ -3680,6 +3920,7 @@
   date: '2014-01-01'
   link: https://doi.org/g824mj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2061392
@@ -3693,6 +3934,7 @@
   date: '2014-09-13'
   link: https://doi.org/g824mk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2014.2363949
@@ -3708,6 +3950,7 @@
   date: '2014-01-01'
   link: https://doi.org/g824mm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-1-4939-0894-3_8
@@ -3719,6 +3962,7 @@
   date: '2014-01-01'
   link: https://doi.org/g824mn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/isbi.2014.6867810
@@ -3734,6 +3978,7 @@
   date: '2014-04-01'
   link: https://doi.org/g824mp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2043680
@@ -3750,6 +3995,7 @@
   date: '2014-03-19'
   link: https://doi.org/g824mq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2014.2326165
@@ -3761,6 +4007,7 @@
   date: '2014-01-01'
   link: https://doi.org/g824mr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2062077
@@ -3772,6 +4019,7 @@
   date: '2014-09-12'
   link: https://doi.org/g824ms
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-140453
@@ -3787,6 +4035,7 @@
   date: '2014-01-01'
   link: https://doi.org/g824mt
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/isbi.2014.6868035
@@ -3800,6 +4049,7 @@
   date: '2014-04-01'
   link: https://doi.org/g824mv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.2062602
@@ -3813,6 +4063,7 @@
   date: '2014-09-11'
   link: https://doi.org/g824mw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/access.2014.2359831
@@ -3825,6 +4076,7 @@
   date: '2014-01-01'
   link: https://doi.org/g824mx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/58/19/7009
@@ -3839,6 +4091,7 @@
   date: '2013-09-17'
   link: https://doi.org/g824mz
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/58/16/r161
@@ -3850,6 +4103,7 @@
   date: '2013-08-02'
   link: https://doi.org/ggjs8z
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/lsm.22147
@@ -3871,6 +4125,7 @@
   date: '2013-06-05'
   link: https://doi.org/f44mh8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/58/12/4297
@@ -3889,6 +4144,7 @@
   date: '2013-06-04'
   link: https://doi.org/g824m2
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.1220184110
@@ -3907,6 +4163,7 @@
   date: '2013-05-29'
   link: https://doi.org/f44r7n
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0061275
@@ -3927,6 +4184,7 @@
   date: '2013-04-09'
   link: https://doi.org/f4sj5p
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0061304
@@ -3944,6 +4202,7 @@
   date: '2013-04-08'
   link: https://doi.org/g824m3
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.joi.2012.11.006
@@ -3961,6 +4220,7 @@
   date: '2013-04-01'
   link: https://doi.org/f4wkxk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1152/japplphysiol.00855.2012
@@ -3979,6 +4239,7 @@
   date: '2013-03-15'
   link: https://doi.org/f4t4cc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-130370
@@ -3996,6 +4257,7 @@
   date: '2013-01-01'
   link: https://doi.org/g824m4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-130386
@@ -4010,6 +4272,7 @@
   date: '2013-01-01'
   link: https://doi.org/g824m5
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-130382
@@ -4028,6 +4291,7 @@
   date: '2013-01-01'
   link: https://doi.org/g7ct63
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-130364
@@ -4047,6 +4311,7 @@
   date: '2013-01-01'
   link: https://doi.org/g824m6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2013/892451
@@ -4062,6 +4327,7 @@
   date: '2013-01-01'
   link: https://doi.org/gb6hsz
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2013.2287552
@@ -4071,6 +4337,7 @@
   date: '2013-11-01'
   link: https://doi.org/g824m7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-130362
@@ -4085,6 +4352,7 @@
   date: '2013-01-01'
   link: https://doi.org/g824m8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/57/24/8217
@@ -4101,6 +4369,7 @@
   date: '2012-11-29'
   link: https://doi.org/g824m9
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1017/s1431927612013530
@@ -4117,6 +4386,7 @@
   date: '2012-12-01'
   link: https://doi.org/g824nb
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2012.2213304
@@ -4132,6 +4402,7 @@
   date: '2012-11-01'
   link: https://doi.org/g824nc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.1215112109
@@ -4151,6 +4422,7 @@
   date: '2012-10-01'
   link: https://doi.org/jpz
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.4754587
@@ -4164,6 +4436,7 @@
   date: '2012-10-08'
   link: https://doi.org/f4ft3f
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1089/ten.tec.2011.0490
@@ -4182,6 +4455,7 @@
   date: '2012-09-01'
   link: https://doi.org/f38qcv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2012.2195669
@@ -4197,6 +4471,7 @@
   date: '2012-09-01'
   link: https://doi.org/g824nd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/1.oe.51.8.080502
@@ -4208,6 +4483,7 @@
   date: '2012-08-06'
   link: https://doi.org/g824nf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0039700
@@ -4230,6 +4506,7 @@
   date: '2012-06-29'
   link: https://doi.org/f33v9k
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/ol.37.001784
@@ -4243,6 +4520,7 @@
   date: '2012-05-16'
   link: https://doi.org/g824ng
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0266-5611/28/6/065022
@@ -4256,6 +4534,7 @@
   date: '2012-05-31'
   link: https://doi.org/ggwbg8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/josaa.29.000908
@@ -4269,6 +4548,7 @@
   date: '2012-05-18'
   link: https://doi.org/g824nh
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tbme.2012.2192119
@@ -4291,6 +4571,7 @@
   date: '2012-06-01'
   link: https://doi.org/f3zr76
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/57/10/2905
@@ -4303,6 +4584,7 @@
   date: '2012-04-20'
   link: https://doi.org/g824nj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.3700172
@@ -4321,6 +4603,7 @@
   date: '2012-04-12'
   link: https://doi.org/f3xvph
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s10910-011-9916-2
@@ -4333,6 +4616,7 @@
   date: '2011-10-01'
   link: https://doi.org/dccx33
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1130/g32546.1
@@ -4346,6 +4630,7 @@
   date: '2012-03-01'
   link: https://doi.org/fzkkx3
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/57/1/173
@@ -4358,6 +4643,7 @@
   date: '2011-12-07'
   link: https://doi.org/bq68s9
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0266-5611/28/1/015001
@@ -4371,6 +4657,7 @@
   date: '2011-12-07'
   link: https://doi.org/d9wv2m
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-2012-0332
@@ -4386,6 +4673,7 @@
   date: '2012-01-01'
   link: https://doi.org/g824nk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/1.jbo.17.6.066010
@@ -4405,6 +4693,7 @@
   date: '2012-01-01'
   link: https://doi.org/f4sz46
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-2012-0337
@@ -4419,6 +4708,7 @@
   date: '2012-01-01'
   link: https://doi.org/g824nm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3233/XST-2012-00349
@@ -4432,6 +4722,7 @@
   date: '2012-01-01'
   link: https://doi.org/g824nn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2011.2160276
@@ -4448,6 +4739,7 @@
   date: '2011-12-01'
   link: https://doi.org/c58xbs
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0266-5611/27/11/115012
@@ -4461,6 +4753,7 @@
   date: '2011-10-25'
   link: https://doi.org/dhjt6k
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/56/19/012
@@ -4479,6 +4772,7 @@
   date: '2011-09-09'
   link: https://doi.org/csf8cj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btr436
@@ -4499,6 +4793,7 @@
   date: '2011-07-23'
   link: https://doi.org/bzt5bt
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.3577765
@@ -4511,6 +4806,7 @@
   date: '2011-07-20'
   link: https://doi.org/d37vx2
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2011.2145070
@@ -4523,6 +4819,7 @@
   date: '2011-05-01'
   link: https://doi.org/bvt5pq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2011.2106161
@@ -4538,6 +4835,7 @@
   date: '2011-05-01'
   link: https://doi.org/dhr58x
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tip.2010.2076819
@@ -4549,6 +4847,7 @@
   date: '2011-04-01'
   link: https://doi.org/b7r4q6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/boe.2.000044
@@ -4560,6 +4859,7 @@
   date: '2010-12-03'
   link: https://doi.org/cft9dx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1137/100809039
@@ -4573,6 +4873,7 @@
   date: '2011-01-01'
   link: https://doi.org/b6mx9m
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1097/rct.0b013e318231c578
@@ -4589,6 +4890,7 @@
   date: '2011-01-01'
   link: https://doi.org/chnmnh
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2011/285130
@@ -4601,6 +4903,7 @@
   date: '2011-01-01'
   link: https://doi.org/cmxf3v
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/1.3596171
@@ -4615,6 +4918,7 @@
   date: '2011-01-01'
   link: https://doi.org/fvpt64
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2011/540820
@@ -4628,6 +4932,7 @@
   date: '2011-01-01'
   link: https://doi.org/fzxvkq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2011/549537
@@ -4640,6 +4945,7 @@
   date: '2011-01-01'
   link: https://doi.org/dvnj7z
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/1.3592499
@@ -4653,6 +4959,7 @@
   date: '2011-01-01'
   link: https://doi.org/dvkrq2
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/boe.1.001259
@@ -4666,6 +4973,7 @@
   date: '2010-10-29'
   link: https://doi.org/dpxz3m
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.3488888
@@ -4677,6 +4985,7 @@
   date: '2010-09-16'
   link: https://doi.org/bnrpk8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tbme.2010.2041452
@@ -4692,6 +5001,7 @@
   date: '2010-09-01'
   link: https://doi.org/b6s293
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/55/16/002
@@ -4708,6 +5018,7 @@
   date: '2010-07-30'
   link: https://doi.org/fbx8wk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/55/13/022
@@ -4720,6 +5031,7 @@
   date: '2010-06-22'
   link: https://doi.org/fq34wh
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1142/s179354581000099x
@@ -4734,6 +5046,7 @@
   date: '2010-07-01'
   link: https://doi.org/cdv5dg
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.1002473107
@@ -4745,6 +5058,7 @@
   date: '2010-05-12'
   link: https://doi.org/cxbnbt
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00211-010-0293-8
@@ -4758,6 +5072,7 @@
   date: '2010-03-20'
   link: https://doi.org/dzvgxz
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0266-5611/26/3/035013
@@ -4771,6 +5086,7 @@
   date: '2010-02-25'
   link: https://doi.org/btw4qn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2009.2035617
@@ -4786,6 +5102,7 @@
   date: '2010-03-01'
   link: https://doi.org/ffht7v
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/55/4/003
@@ -4797,6 +5114,7 @@
   date: '2010-01-20'
   link: https://doi.org/d82qz6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/nature08705
@@ -4815,6 +5133,7 @@
   date: '2009-12-16'
   link: https://doi.org/frq7tf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2010/284073
@@ -4827,6 +5146,7 @@
   date: '2010-01-01'
   link: https://doi.org/dttb2k
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2010/934847
@@ -4839,6 +5159,7 @@
   date: '2010-01-01'
   link: https://doi.org/crb2bx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/cnm.1164
@@ -4852,6 +5173,7 @@
   date: '2008-08-22'
   link: https://doi.org/c4vb56
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1097/rct.0b013e31819f61e2
@@ -4870,6 +5192,7 @@
   date: '2009-11-01'
   link: https://doi.org/dnhjpw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.bspc.2009.01.008
@@ -4883,6 +5206,7 @@
   date: '2009-10-01'
   link: https://doi.org/djxgnk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/54/18/n04
@@ -4896,6 +5220,7 @@
   date: '2009-08-28'
   link: https://doi.org/bwfbc6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.3157103
@@ -4908,6 +5233,7 @@
   date: '2009-07-06'
   link: https://doi.org/cv45kc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.3158733
@@ -4921,6 +5247,7 @@
   date: '2009-07-01'
   link: https://doi.org/cxjvqm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/cnm.1163
@@ -4935,6 +5262,7 @@
   date: '2008-08-22'
   link: https://doi.org/d6pt4t
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/cnm.1206
@@ -4949,6 +5277,7 @@
   date: '2009-01-05'
   link: https://doi.org/dsk8qm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/cnm.1175
@@ -4962,6 +5291,7 @@
   date: '2008-09-21'
   link: https://doi.org/c2wsxc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/cnm.1244
@@ -4974,6 +5304,7 @@
   date: '2009-03-12'
   link: https://doi.org/fv5zn4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/54/10/001
@@ -4986,6 +5317,7 @@
   date: '2009-04-23'
   link: https://doi.org/dg3f87
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/54/9/014
@@ -4997,6 +5329,7 @@
   date: '2009-04-15'
   link: https://doi.org/fq73xt
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s11227-008-0198-9
@@ -5012,6 +5345,7 @@
   date: '2008-03-29'
   link: https://doi.org/c62vrv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2008.2004817
@@ -5025,6 +5359,7 @@
   date: '2009-03-01'
   link: https://doi.org/dcr36r
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.acra.2008.09.003
@@ -5038,6 +5373,7 @@
   date: '2009-03-01'
   link: https://doi.org/brvzpd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1080/00036810802713834
@@ -5053,6 +5389,7 @@
   date: '2009-02-01'
   link: https://doi.org/d42w5w
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2009/125871
@@ -5066,6 +5403,7 @@
   date: '2009-01-01'
   link: https://doi.org/fb2qdd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2009/406854
@@ -5079,6 +5417,7 @@
   date: '2009-01-01'
   link: https://doi.org/d67ck7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2009/534516
@@ -5093,6 +5432,7 @@
   date: '2009-01-01'
   link: https://doi.org/d2h4p2
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2009/464235
@@ -5105,6 +5445,7 @@
   date: '2009-01-01'
   link: https://doi.org/bm98r7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2009/847537
@@ -5118,6 +5459,7 @@
   date: '2009-01-01'
   link: https://doi.org/d8qxdc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1097/rct.0b013e31815a7e4b
@@ -5131,6 +5473,7 @@
   date: '2008-11-01'
   link: https://doi.org/cj7vtr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.bspc.2008.04.005
@@ -5149,6 +5492,7 @@
   date: '2008-10-01'
   link: https://doi.org/cmbb5q
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.dam.2007.10.011
@@ -5162,6 +5506,7 @@
   date: '2008-06-01'
   link: https://doi.org/cpnh2g
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.sigpro.2007.11.007
@@ -5173,6 +5518,7 @@
   date: '2008-05-01'
   link: https://doi.org/dvzb5j
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/sca.4950160406
@@ -5186,6 +5532,7 @@
   date: '1994-07-01'
   link: https://doi.org/bw2n4s
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.2836950
@@ -5198,6 +5545,7 @@
   date: '2008-02-25'
   link: https://doi.org/fvwh6r
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tcst.2007.903082
@@ -5212,6 +5560,7 @@
   date: '2008-01-01'
   link: https://doi.org/fvnfkc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2008/763028
@@ -5225,6 +5574,7 @@
   date: '2008-01-01'
   link: https://doi.org/bfr7gq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/oe.16.001719
@@ -5241,6 +5591,7 @@
   date: '2008-01-01'
   link: https://doi.org/cvnsgv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2008/941729
@@ -5257,6 +5608,7 @@
   date: '2008-01-01'
   link: https://doi.org/d9wx38
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/1.2907168
@@ -5271,6 +5623,7 @@
   date: '2008-01-01'
   link: https://doi.org/c9jrbf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2008/827152
@@ -5283,6 +5636,7 @@
   date: '2008-01-01'
   link: https://doi.org/dwt8gt
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/physreve.76.051913
@@ -5298,6 +5652,7 @@
   date: '2007-11-14'
   link: https://doi.org/cjcmrm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1097/rct.0b013e31803e8c1f
@@ -5314,6 +5669,7 @@
   date: '2007-11-01'
   link: https://doi.org/ccwnzq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/ol.32.002837
@@ -5328,6 +5684,7 @@
   date: '2007-09-25'
   link: https://doi.org/chq26r
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2007/95295
@@ -5339,6 +5696,7 @@
   date: '2007-01-01'
   link: https://doi.org/dnwwh4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/52/14/020
@@ -5352,6 +5710,7 @@
   date: '2007-06-20'
   link: https://doi.org/fdnf3r
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.acra.2006.12.015
@@ -5370,6 +5729,7 @@
   date: '2007-04-01'
   link: https://doi.org/ctcwf7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/52/6/r01
@@ -5383,6 +5743,7 @@
   date: '2007-02-19'
   link: https://doi.org/dzct9v
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0266-5611/23/1/010
@@ -5395,6 +5756,7 @@
   date: '2006-12-11'
   link: https://doi.org/cz49h4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/imamat/hxl031
@@ -5406,6 +5768,7 @@
   date: '2007-02-01'
   link: https://doi.org/bcssrp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2006.889717
@@ -5417,6 +5780,7 @@
   date: '2007-02-01'
   link: https://doi.org/bnf3rm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1097/01.rct.0000233128.28926.50
@@ -5431,6 +5795,7 @@
   date: '2007-01-01'
   link: https://doi.org/fmbc88
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2007/29160
@@ -5443,6 +5808,7 @@
   date: '2007-01-01'
   link: https://doi.org/d5hf2b
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2007/63634
@@ -5456,6 +5822,7 @@
   date: '2007-01-01'
   link: https://doi.org/bp4stg
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/ima.20101
@@ -5470,6 +5837,7 @@
   date: '2007-01-01'
   link: https://doi.org/fgrd2q
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2007/87319
@@ -5482,6 +5850,7 @@
   date: '2007-01-01'
   link: https://doi.org/d2v6bx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2007/10693
@@ -5494,6 +5863,7 @@
   date: '2007-01-01'
   link: https://doi.org/bw8ppj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/sca.4950170604
@@ -5507,6 +5877,7 @@
   date: '1995-11-01'
   link: https://doi.org/dwwkhd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/51/21/017
@@ -5523,6 +5894,7 @@
   date: '2006-10-16'
   link: https://doi.org/bgc57z
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2174/157340506778777097
@@ -5536,6 +5908,7 @@
   date: '2006-11-01'
   link: https://doi.org/dxp9dn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0266-5611/22/5/008
@@ -5548,6 +5921,7 @@
   date: '2006-08-21'
   link: https://doi.org/ffvxvh
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.2348767
@@ -5560,6 +5934,7 @@
   date: '2006-09-14'
   link: https://doi.org/cjzbfv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.2336510
@@ -5574,6 +5949,7 @@
   date: '2006-09-13'
   link: https://doi.org/bwh8mq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/lsp.2006.874452
@@ -5586,6 +5962,7 @@
   date: '2006-09-01'
   link: https://doi.org/ccbcrg
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.680720
@@ -5600,6 +5977,7 @@
   date: '2006-08-31'
   link: https://doi.org/ct9m8w
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/iembs.2006.260762
@@ -5616,6 +5994,7 @@
   date: '2006-08-01'
   link: https://doi.org/c8c8vd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/imsccs.2006.38
@@ -5632,6 +6011,7 @@
   date: '2006-06-01'
   link: https://doi.org/ctm2ck
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2006.875424
@@ -5646,6 +6026,7 @@
   date: '2006-06-01'
   link: https://doi.org/bsbvsf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0266-5611/22/2/004
@@ -5659,6 +6040,7 @@
   date: '2006-02-28'
   link: https://doi.org/bkrc8r
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmaa.2005.10.039
@@ -5671,6 +6053,7 @@
   date: '2006-03-01'
   link: https://doi.org/dn6kdv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.2168293
@@ -5684,6 +6067,7 @@
   date: '2006-02-21'
   link: https://doi.org/bmtc3m
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.acra.2005.08.007
@@ -5697,6 +6081,7 @@
   date: '2006-01-01'
   link: https://doi.org/frt5kr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/ijbi/2006/10427
@@ -5708,6 +6093,7 @@
   date: '2006-01-01'
   link: https://doi.org/c3gtjm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/oe.14.008211
@@ -5724,6 +6110,7 @@
   date: '2006-01-01'
   link: https://doi.org/dzqr3d
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/ijbi/2006/45957
@@ -5737,6 +6124,7 @@
   date: '2006-01-01'
   link: https://doi.org/fqqjnw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/1.2191790
@@ -5748,6 +6136,7 @@
   date: '2006-01-01'
   link: https://doi.org/bs29rj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/ijbi/2006/12819
@@ -5761,6 +6150,7 @@
   date: '2006-01-01'
   link: https://doi.org/ch8n9c
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/ijbi/2006/53050
@@ -5775,6 +6165,7 @@
   date: '2006-01-01'
   link: https://doi.org/c8dzqc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/ijbi/2006/83847
@@ -5788,6 +6179,7 @@
   date: '2006-01-01'
   link: https://doi.org/cfr797
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/oe.14.007801
@@ -5806,6 +6198,7 @@
   date: '2006-01-01'
   link: https://doi.org/dv9mp5
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/ijbi/2006/14989
@@ -5820,6 +6213,7 @@
   date: '2006-01-01'
   link: https://doi.org/cknjx8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/ijbi/2006/54390
@@ -5833,6 +6227,7 @@
   date: '2006-01-01'
   link: https://doi.org/fjf9c8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/ijbi/2006/81409
@@ -5843,6 +6238,7 @@
   date: '2006-01-01'
   link: https://doi.org/fgs5tw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/ijbi/2006/57614
@@ -5854,6 +6250,7 @@
   date: '2006-01-01'
   link: https://doi.org/dwvf4t
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/oe.14.007852
@@ -5868,6 +6265,7 @@
   date: '2006-01-01'
   link: https://doi.org/bwzhrt
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/ijbi/2006/58601
@@ -5883,6 +6281,7 @@
   date: '2006-01-01'
   link: https://doi.org/fd75qn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1475-925x-5-53
@@ -5906,6 +6305,7 @@
   date: '2006-10-17'
   link: https://doi.org/cftkk7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/physrevlett.95.258102
@@ -5918,6 +6318,7 @@
   date: '2005-12-14'
   link: https://doi.org/cpjb99
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/50/23/012
@@ -5931,6 +6332,7 @@
   date: '2005-11-16'
   link: https://doi.org/dd8kd6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.forsciint.2004.11.004
@@ -5947,6 +6349,7 @@
   date: '2005-12-01'
   link: https://doi.org/dk59jn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.2074207
@@ -5960,6 +6363,7 @@
   date: '2005-10-17'
   link: https://doi.org/fnkncq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2005.857232
@@ -5972,6 +6376,7 @@
   date: '2005-10-01'
   link: https://doi.org/c27jt6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.2040727
@@ -5985,6 +6390,7 @@
   date: '2005-09-27'
   link: https://doi.org/dvskdn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2005.853626
@@ -5998,6 +6404,7 @@
   date: '2005-09-01'
   link: https://doi.org/bqhg54
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/lsp.2005.851615
@@ -6011,6 +6418,7 @@
   date: '2005-09-01'
   link: https://doi.org/dx2z5c
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1902530
@@ -6025,6 +6433,7 @@
   date: '2005-07-29'
   link: https://doi.org/bkgwcv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1869632
@@ -6037,6 +6446,7 @@
   date: '2005-05-25'
   link: https://doi.org/dffcmf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0031-9155/50/9/012
@@ -6051,6 +6461,7 @@
   date: '2005-04-20'
   link: https://doi.org/c92g5f
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.595403
@@ -6066,6 +6477,7 @@
   date: '2005-04-12'
   link: https://doi.org/d3c4p8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.camwa.2004.10.034
@@ -6078,6 +6490,7 @@
   date: '2005-04-01'
   link: https://doi.org/b62sbj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.acra.2004.01.024
@@ -6096,6 +6509,7 @@
   date: '2005-04-01'
   link: https://doi.org/cxpzxv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmaa.2004.08.041
@@ -6107,6 +6521,7 @@
   date: '2005-03-01'
   link: https://doi.org/bgvxsk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/opex.13.009847
@@ -6118,6 +6533,7 @@
   date: '2005-01-01'
   link: https://doi.org/cjfwt7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/opex.13.006756
@@ -6138,6 +6554,7 @@
   date: '2005-01-01'
   link: https://doi.org/cb2984
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1475-925x-4-36
@@ -6150,6 +6567,7 @@
   date: '2005-06-14'
   link: https://doi.org/dbqnsk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1828673
@@ -6162,6 +6580,7 @@
   date: '2004-12-15'
   link: https://doi.org/bsvpdk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.acra.2004.09.005
@@ -6182,6 +6601,7 @@
   date: '2004-12-01'
   link: https://doi.org/d382sv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1809792
@@ -6196,6 +6616,7 @@
   date: '2004-11-11'
   link: https://doi.org/bz84rd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1117/12.560256
@@ -6210,6 +6631,7 @@
   date: '2004-10-26'
   link: https://doi.org/dxpcc9
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tbme.2004.828052
@@ -6223,6 +6645,7 @@
   date: '2004-10-01'
   link: https://doi.org/fphtsb
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.acra.2004.05.021
@@ -6240,6 +6663,7 @@
   date: '2004-09-01'
   link: https://doi.org/bvw4zf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1766420
@@ -6252,6 +6676,7 @@
   date: '2004-07-26'
   link: https://doi.org/fcd7wm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1751251
@@ -6264,6 +6689,7 @@
   date: '2004-05-24'
   link: https://doi.org/dqcjvx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1739298
@@ -6276,6 +6702,7 @@
   date: '2004-05-20'
   link: https://doi.org/fsjxck
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tbme.2004.826595
@@ -6293,6 +6720,7 @@
   date: '2004-05-01'
   link: https://doi.org/csqdpz
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1708653
@@ -6305,6 +6733,7 @@
   date: '2004-04-23'
   link: https://doi.org/d2fk4q
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1646041
@@ -6318,6 +6747,7 @@
   date: '2004-02-18'
   link: https://doi.org/b34h6h
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1475-925x-3-12
@@ -6331,6 +6761,7 @@
   date: '2004-05-04'
   link: https://doi.org/bd49cc
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1475-925x-3-31
@@ -6347,6 +6778,7 @@
   date: '2004-10-01'
   link: https://doi.org/b4rk28
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/s1076-6332(03)00121-1
@@ -6363,6 +6795,7 @@
   date: '2003-09-01'
   link: https://doi.org/c76w25
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1599953
@@ -6376,6 +6809,7 @@
   date: '2003-08-21'
   link: https://doi.org/chptmj
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tip.2003.815295
@@ -6387,6 +6821,7 @@
   date: '2003-08-01'
   link: https://doi.org/ch2sfn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2003.815075
@@ -6401,6 +6836,7 @@
   date: '2003-07-01'
   link: https://doi.org/ftm55c
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/s1076-6332(03)80078-8
@@ -6417,6 +6853,7 @@
   date: '2003-06-01'
   link: https://doi.org/cc3hdr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/tmi.2003.812253
@@ -6428,6 +6865,7 @@
   date: '2003-05-01'
   link: https://doi.org/bpdvcb
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1562941
@@ -6439,6 +6877,7 @@
   date: '2003-03-26'
   link: https://doi.org/cb6qxw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1522748
@@ -6451,6 +6890,7 @@
   date: '2002-11-27'
   link: https://doi.org/cgg2v4
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1494989
@@ -6464,6 +6904,7 @@
   date: '2002-07-24'
   link: https://doi.org/dhrhzq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1489043
@@ -6474,6 +6915,7 @@
   date: '2002-06-24'
   link: https://doi.org/b3w68p
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1470500
@@ -6489,6 +6931,7 @@
   date: '2002-04-16'
   link: https://doi.org/dr7hmz
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/97.1001647
@@ -6502,6 +6945,7 @@
   date: '2002-04-01'
   link: https://doi.org/b6xq8m
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s10278-001-0102-0
@@ -6512,6 +6956,7 @@
   date: '2001-12-01'
   link: https://doi.org/b277dv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/s1350-4533(01)00084-4
@@ -6526,6 +6971,7 @@
   date: '2001-10-01'
   link: https://doi.org/bmdvhw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1381549
@@ -6539,6 +6985,7 @@
   date: '2001-07-01'
   link: https://doi.org/d5qbzk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.1312191
@@ -6550,6 +6997,7 @@
   date: '2000-10-01'
   link: https://doi.org/d39dsd
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/s1076-6332(00)80576-0
@@ -6562,6 +7010,7 @@
   date: '2000-08-01'
   link: https://doi.org/cx443f
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/s1076-6332(00)80323-2
@@ -6575,6 +7024,7 @@
   date: '2000-07-01'
   link: https://doi.org/dfxhmf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/4233.845207
@@ -6589,6 +7039,7 @@
   date: '2000-06-01'
   link: https://doi.org/bmjzxp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.598953
@@ -6604,6 +7055,7 @@
   date: '2000-05-01'
   link: https://doi.org/drn79w
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.598940
@@ -6618,6 +7070,7 @@
   date: '2000-04-01'
   link: https://doi.org/fb2s42
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/s1076-6332(00)80114-2
@@ -6633,6 +7086,7 @@
   date: '2000-03-01'
   link: https://doi.org/cxw7f7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s002619910016
@@ -6649,6 +7103,7 @@
   date: '2000-01-01'
   link: https://doi.org/cz2cw8
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/10.855941
@@ -6663,6 +7118,7 @@
   date: '2000-01-01'
   link: https://doi.org/dqpqwr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/42.887839
@@ -6674,6 +7130,7 @@
   date: '2000-01-01'
   link: https://doi.org/cfh9mb
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/10.871413
@@ -6687,6 +7144,7 @@
   date: '2000-01-01'
   link: https://doi.org/dfwk58
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/42.897816
@@ -6702,6 +7160,7 @@
   date: '2000-01-01'
   link: https://doi.org/bchbxf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/97.803431
@@ -6713,6 +7172,7 @@
   date: '1999-12-01'
   link: https://doi.org/fqszt9
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.598804
@@ -6724,6 +7184,7 @@
   date: '1999-12-01'
   link: https://doi.org/bq53gf
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/97.789603
@@ -6735,6 +7196,7 @@
   date: '1999-10-01'
   link: https://doi.org/c9mr23
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/s1076-6332(99)80190-1
@@ -6750,6 +7212,7 @@
   date: '1999-07-01'
   link: https://doi.org/dhnqk3
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/s1076-6332(99)80403-6
@@ -6763,6 +7226,7 @@
   date: '1999-03-01'
   link: https://doi.org/d3fngq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/ao.38.000253
@@ -6776,6 +7240,7 @@
   date: '1999-01-01'
   link: https://doi.org/ct2m35
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1017/s1431927699000057
@@ -6789,6 +7254,7 @@
   date: '1999-01-01'
   link: https://doi.org/bvpqwx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-1-4615-4791-4_201
@@ -6802,6 +7268,7 @@
   date: '1999-01-01'
   link: https://doi.org/d9hzq7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1615/critrevbiomedeng.v27.i1-2.10
@@ -6814,6 +7281,7 @@
   date: '1999-01-01'
   link: https://doi.org/g824np
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/s1076-6332(98)80560-6
@@ -6825,6 +7293,7 @@
   date: '1998-10-01'
   link: https://doi.org/dv4wjr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/42.700745
@@ -6838,6 +7307,7 @@
   date: '1998-04-01'
   link: https://doi.org/drp3rs
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/42.700737
@@ -6852,6 +7322,7 @@
   date: '1998-04-01'
   link: https://doi.org/cf6hjr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1017/s1431927698980059
@@ -6870,6 +7341,7 @@
   date: '1998-02-01'
   link: https://doi.org/g824nq
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/42.736058
@@ -6882,6 +7354,7 @@
   date: '1998-01-01'
   link: https://doi.org/dzv5v5
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1049/el:19981690
@@ -6894,6 +7367,7 @@
   date: '1998-12-10'
   link: https://doi.org/b4qjsg
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1148/radiology.205.3.9393524
@@ -6912,6 +7386,7 @@
   date: '1997-12-01'
   link: https://doi.org/g824nr
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1137/s0036139995290575
@@ -6925,6 +7400,7 @@
   date: '1997-12-01'
   link: https://doi.org/fh35hk
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/s1079-2104(97)90274-2
@@ -6940,6 +7416,7 @@
   date: '1997-11-01'
   link: https://doi.org/cxts7v
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.597971
@@ -6951,6 +7428,7 @@
   date: '1997-10-01'
   link: https://doi.org/bx674b
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1148/radiology.204.3.9280246
@@ -6969,6 +7447,7 @@
   date: '1997-09-01'
   link: https://doi.org/g824ns
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.597905
@@ -6981,6 +7460,7 @@
   date: '1997-03-01'
   link: https://doi.org/dtqjsw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/s1076-6332(05)80678-6
@@ -6992,6 +7472,7 @@
   date: '1996-05-01'
   link: https://doi.org/fnk8xm
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/42.538943
@@ -7005,6 +7486,7 @@
   date: '1996-01-01'
   link: https://doi.org/c2jz2q
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/10.532123
@@ -7020,6 +7502,7 @@
   date: '1996-01-01'
   link: https://doi.org/dpm4c5
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/s1076-6332(05)80069-8
@@ -7032,6 +7515,7 @@
   date: '1995-10-01'
   link: https://doi.org/ckzmmp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/42.387702
@@ -7044,6 +7528,7 @@
   date: '1995-06-01'
   link: https://doi.org/b366fp
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1148/radiology.194.1.7997544
@@ -7060,6 +7545,7 @@
   date: '1995-01-01'
   link: https://doi.org/g824nt
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1148/radiology.193.2.7972755
@@ -7075,6 +7561,7 @@
   date: '1994-11-01'
   link: https://doi.org/g824nv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1148/radiographics.14.4.7938775
@@ -7090,6 +7577,7 @@
   date: '1994-07-01'
   link: https://doi.org/g824nw
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.597334
@@ -7102,6 +7590,7 @@
   date: '1994-06-01'
   link: https://doi.org/cmtkbv
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1148/radiology.191.1.8134601
@@ -7113,6 +7602,7 @@
   date: '1994-04-01'
   link: https://doi.org/g824nx
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/83.242365
@@ -7125,6 +7615,7 @@
   date: '1993-01-01'
   link: https://doi.org/b4q25c
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/42.241876
@@ -7138,6 +7629,7 @@
   date: '1993-01-01'
   link: https://doi.org/dgjxj7
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1080/01431169208904055
@@ -7149,6 +7641,7 @@
   date: '1992-02-01'
   link: https://doi.org/bsjdnh
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/sca.4950140607
@@ -7162,6 +7655,7 @@
   date: '1992-01-01'
   link: https://doi.org/b7ntfn
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/sca.4950140402
@@ -7176,6 +7670,7 @@
   date: '1992-01-01'
   link: https://doi.org/fw8g33
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:61
@@ -7189,6 +7684,7 @@
   date: '1975-12-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/61
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/isbi.2002.1029274
@@ -7203,6 +7699,7 @@
   date: ''
   link: https://doi.org/c687b6
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/isbi.2006.1625007
@@ -7220,6 +7717,7 @@
   date: ''
   link: https://doi.org/d7gjbs
   orcid: 0000-0002-2656-7705
+  md-sayed-tanveer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: arXiv:2412.14112
