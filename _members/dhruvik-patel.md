@@ -1,11 +1,10 @@
 ---
 name: Dhruvik Patel
-image: images/photo.jpg
-description: Student
-role: student
+image: images/dhruvik.jfif
+description: phd
+role: Student
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  linkedin: dhruvikp
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A student at Rensselaer Polytechnic Institute, currently enrolled in the Physician-Scientist Program with Albany Medical College.
