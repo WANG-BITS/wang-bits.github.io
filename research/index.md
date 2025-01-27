@@ -25,5 +25,15 @@ At Wang-BITS lab, we are working on Synthetic Biological Intelligence (SBI) and 
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" filters="date >= '2020-01-01' and date <= '2023-12-31'" %}
-<!---{% include list.html data="citations" component="citation" filters="authors =~ /Dhruvik/i or authors =~ /Goldwag/i or authors =~ /Kagan/i" %}--->
+<ul>
+  {% for citation in site.data.citations %}
+    {% if citation.date >= '2020-01-01' and citation.date <= '2023-12-31' %}
+      <li style="color: green;">{{ citation.title }} ({{ citation.date }}) - Passed Filter</li>
+    {% else %}
+      <li style="color: red;">{{ citation.title }} ({{ citation.date }}) - Failed Filter</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<!---{% include list.html data="citations" component="citation" style="rich" %}--->
+{% include list.html data="citations" component="citation" filters="authors =~ /Dhruvik/i or authors =~ /Goldwag/i or authors =~ /Kagan/i" %}
