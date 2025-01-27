@@ -26,5 +26,5 @@ At Wang-BITS lab, we are working on Synthetic Biological Intelligence (SBI) and 
 {% include search-info.html %}
 
 
-{% include list.html data="citations" component="citation" style="rich" filters="publisher == 'Physics in Medicine &amp; Biology' "%}
+{% include list.html data="citations" component="citation" style="rich" filters="title == 'Syn2Real: synthesis of CT image ring artifacts for deep learning-based correction' " %}
 <!---{% include list.html data="citations" component="citation" filters=" authors contains 'Dhruvik' or authors contains 'Goldwag' or authors contains 'Kagan' " %}-->
