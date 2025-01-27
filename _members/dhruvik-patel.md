@@ -1,8 +1,8 @@
 ---
-name: Sarah Johnson
+name: Dhruvik Patel
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Student
+role: student
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
