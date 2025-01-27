@@ -1,10 +1,14 @@
 ---
-name: Md Sayed Tanveer
-image: images/photo.jpg
-role: student
-group: alum
+name: Tanveer (Derik) Azam
+image: images/derik.jpg
+role: phd
+description: Co-investigator
+group: current
+alias:
+  - Md Sayed Tanveer
 links:
-  github: john-doe
+  google-scholar: r7_LAU8AAAAJ
+  linkedin: tanveer-azam-231598191
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Currently working as a Graduate Research Assistant in Wang-AXIS and Wang-BITS labs at the Department of Biomedical Engineering at Rensselaer Polytechnic Institute. 
