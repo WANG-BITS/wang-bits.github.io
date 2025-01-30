@@ -1,6 +1,6 @@
 ---
 name: Dhruvik Patel
-image: images/dhruvik.jfif
+image: images/team_current_member_dhruvik.jfif
 role: phd
 description: Student
 links:
