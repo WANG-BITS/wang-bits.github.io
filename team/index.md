@@ -16,6 +16,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 ### Primary Investigator
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
+{% include section.html %}
+
 ### Current Members
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
