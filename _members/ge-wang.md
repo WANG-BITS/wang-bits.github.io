@@ -1,6 +1,6 @@
 ---
 name: Ge Wang
-image: images/ge_wang.jpg
+image: images/team_pi_ge_wang.jpg
 role: principal-investigator
 affiliation: Rensselaer Polytechnic Institute
 links:
