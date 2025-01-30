@@ -14,7 +14,7 @@ Bioengineered Intelligence Theory and Systems (BITS) Lab is led by [Dr. Ge Wang]
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+At Wang-BITS lab, we study Synthetic Biological Intelligence and Organoid Intelligence, modeling lab-grown neural networks with AI and investigating their functionality, stimulation effects, and disease implications.
 
 {%
   include button.html
@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home_research.gif"
   link="research"
   title="Our Research"
   text=text
