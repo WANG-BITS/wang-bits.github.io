@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1088/1361-6560/adaf71
+  title: Patch-based dual-domain photon-counting CT data correction with residual-based
+    WGAN-ViT
+  authors:
+  - Bahareh Morovati
+  - Mengzhou Li
+  - Shuo Han
+  - Li Zhou
+  - Dayang Wang
+  - Ge Wang
+  - Hengyong Yu
+  publisher: Physics in Medicine &amp; Biology
+  date: '2025-01-28'
+  link: https://doi.org/g83n6h
+  orcid: 0000-0002-2656-7705
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1088/1361-6560/adad2c
   title: 'Syn2Real: synthesis of CT image ring artifacts for deep learning-based correction'
   authors:
@@ -403,7 +420,6 @@
   - Biomedical engineering
   - Cognitive neuroscience
   - Problem solving
-  repo: WANG-BITS/wang-bits.github.io
 - id: doi:10.1148/radiol.230957
   title: Open-Source Inline Generative AI for Fast Cardiac MRI
   authors:
