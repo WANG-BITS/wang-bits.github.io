@@ -7255,8 +7255,23 @@
   - Brett J. Kagan
   - Ge Wang
   publisher: arXiv
-  date: '2024-12-19'
+  date: '2024-12-17'
   link: https://arxiv.org/abs/2412.14112
+  type: paper
+  description: Here, we propose how a lab focusing on computational aspects, including
+    machine learning and device interfacing, can start working on synthetic biological
+    intelligence, including organoid intelligence. We will also discuss computational
+    aspects, which can be helpful for labs that focus on biological research. To facilitate
+    synthetic biological intelligence research, we will describe such a general process
+    step by step, including risks and precautions that could lead to substantial delay
+    or additional cost.
   image: https://simple.wikipedia.org/wiki/ArXiv#/media/File:ArXiv_logo_2022.png
+  buttons:
+  - type: website
+    link: https://www.nature.com/articles/s42256-023-00666-w
+  tags:
+  - Biomedical engineering
+  - Cognitive neuroscience
+  - Problem solving
   plugin: sources.py
   file: sources.yaml
