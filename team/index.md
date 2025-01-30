@@ -7,26 +7,14 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+Below are our PI, Dr. Wang, and our current team members.
+
 {% include section.html %}
-
-### Primary Investigator
-
-{% capture content %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
-{% endcapture %}
-
-
-{% include section.html %}
-
-### Current Members
-
-{% capture content %}
-
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% endcapture %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
