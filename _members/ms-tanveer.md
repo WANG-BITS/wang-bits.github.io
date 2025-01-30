@@ -1,6 +1,6 @@
 ---
 name: Tanveer (Derik) Azam
-image: images/derik.jpg
+image: images/team_current_member_derik.jpg
 role: phd
 description: Co-investigator
 group: current
