@@ -1,6 +1,9 @@
 ---
 ---
 
+### THE WEBSITE IS CURRENTLY UNDER DEVELOPMENT ###
+### WE APOLOGISE FOR ANY INCONVENIENCE WHILE BROWSING ###
+
 # WANG-BITS Lab
 
 Bioengineered Intelligence Theory and Systems (BITS) Lab is led by [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang), affiliated with the [Center for Biotechnology and Interdisciplinary Studies](https://biotech.rpi.edu/) and the [Department of Biomedical Engineering](https://bme.rpi.edu/), [Rensselaer Polytechnic Institute](https://www.rpi.edu/). Our focus is exploring both theoretical and experimental aspects of Synthetic Biological Intelligence (SBI) and Organoid Intelligence (OI), where neurons are grown in vitro, interfaced with electronic devices, and trained to perform various intelligent tasks.
