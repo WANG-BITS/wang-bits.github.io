@@ -1,6 +1,5 @@
 - id: doi:10.1038/s42256-023-00666-w
   type: paper
-  group: bits_specific
   description: An in vitro biological system of cultured brain cells has learned to play Pong. This feat opens up an avenue towards the convergence of biological and machine intelligence.
   date: 2023-06-01
   image: https://en.wikipedia.org/wiki/Nature_Machine_Intelligence#/media/File:Nature_Machine_Intelligence_journal_cover_volume_1_issue_1.png
@@ -14,7 +13,6 @@
 
 - id: arXiv:2412.14112
   type: preprint
-  group: bits_specific
   description: Here, we propose how a lab focusing on computational aspects, including machine learning and device interfacing, can start working on synthetic biological intelligence, including organoid intelligence. We will also discuss computational aspects, which can be helpful for labs that focus on biological research. To facilitate synthetic biological intelligence research, we will describe such a general process step by step, including risks and precautions that could lead to substantial delay or additional cost.
   image: https://simple.wikipedia.org/wiki/ArXiv#/media/File:ArXiv_logo_2022.png
     buttons:
