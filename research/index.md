@@ -17,14 +17,3 @@ At Wang-BITS lab, we are working on Synthetic Biological Intelligence (SBI) and 
 
 {% include citation.html lookup="DishBrain plays Pong and promises more" style="rich" %}
 {% include citation.html lookup="Starting a Synthetic Biological Intelligence Lab from Scratch" style="rich" %}
-
-
-<!---{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}  --->
