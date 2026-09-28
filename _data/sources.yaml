@@ -1,25 +1,38 @@
+# hand-added details for publications
+# entries here are merged with the ones found automatically (see openalex.yaml) by matching id,
+# so use the same id format: doi:10.xxxx/... (lowercase) or arxiv:xxxx.xxxxx
+# add "remove: true" to an entry to hide a paper that was found automatically
+
+- id: arxiv:2609.23907
+  type: preprint
+  description: A discrete generative model of neuronal spiking activity recorded on high-density microelectrode arrays. A residual vector-quantized autoencoder learns a shared vocabulary of spatiotemporal motifs, and a factorized masked transformer generates array-wide activity, evaluated on human brain organoids and ex vivo human hippocampal tissue.
+  tags:
+    - NeuroAI
+    - Neural data modeling
+    - Generative models
+    - Brain organoids
+
+- id: arxiv:2509.23896
+  type: preprint
+  description: A review organizing the NeuroAI landscape into hardware, software, and wetware, with a focus on computational frameworks that couple living neural tissue with digital algorithms, including organoid intelligence, neuromorphic computing, and neuro-symbolic learning.
+  tags:
+    - NeuroAI
+    - Synthetic biological intelligence
+    - Organoid intelligence
+
+- id: doi:10.1016/j.patter.2025.101232
+  type: paper
+  description: A practical guide for computational labs entering synthetic biological intelligence (and for biological labs adopting its computational side), covering step-by-step processes, risks, and precautions to avoid delays and minimize cost.
+  buttons:
+    - type: preprint
+      link: https://arxiv.org/abs/2412.14112
+  tags:
+    - Synthetic biological intelligence
+    - Organoid intelligence
+
 - id: doi:10.1038/s42256-023-00666-w
   type: paper
   description: An in vitro biological system of cultured brain cells has learned to play Pong. This feat opens up an avenue towards the convergence of biological and machine intelligence.
-  date: 2023-06-01
-  image: https://en.wikipedia.org/wiki/Nature_Machine_Intelligence#/media/File:Nature_Machine_Intelligence_journal_cover_volume_1_issue_1.png
-  buttons:
-    - type: website
-      link: https://www.nature.com/articles/s42256-023-00666-w
   tags:
-    - Biomedical engineering
-    - Cognitive neuroscience
-    - Problem solving
-
-- id: arXiv:2412.14112
-  type: preprint
-  description: Here, we propose how a lab focusing on computational aspects, including machine learning and device interfacing, can start working on synthetic biological intelligence, including organoid intelligence. We will also discuss computational aspects, which can be helpful for labs that focus on biological research. To facilitate synthetic biological intelligence research, we will describe such a general process step by step, including risks and precautions that could lead to substantial delay or additional cost.
-  date: 2024-12-17
-  image: https://simple.wikipedia.org/wiki/ArXiv#/media/File:ArXiv_logo_2022.png
-  buttons:
-    - type: website
-      link: https://arxiv.org/abs/2412.14112
-  tags:
-    - Biomedical engineering
-    - Cognitive neuroscience
-    - Problem solving
+    - Synthetic biological intelligence
+    - NeuroAI

@@ -1,0 +1,38 @@
+# automatically find lab publications on OpenAlex (https://openalex.org)
+#
+# authors: OpenAlex author ids of lab members. find yours by searching your name at
+#   https://api.openalex.org/authors?search=YOUR+NAME
+#   (OpenAlex sometimes splits one person into several ids; list all of them)
+# keywords: a work is included only if its title or abstract contains one of these
+#   (case-insensitive). keep them specific, since members also publish outside the lab's topics.
+# exclude: ids of matching works that should still not be shown (e.g. doi:10.1234/5678)
+#
+# to add a paper that isn't found automatically, or to add a description, image, or tags
+# to one that is, add it to sources.yaml
+
+- authors:
+    - A5100400458 # Ge Wang
+    - A5072937467 # Md Sayed Tanveer
+    - A5115560896 # Md Sayed Tanveer
+    - A5108308981 # Md Sayed Tanveer Azam
+    - A5115560899 # Dhruvik Patel
+  keywords:
+    - biological intelligence
+    - organoid intelligence
+    - brain organoid
+    - cerebral organoid
+    - neural organoid
+    - neuroai
+    - neuro-ai
+    - dishbrain
+    - in vitro neur
+    - neuronal culture
+    - neural culture
+    - cortical culture
+    - microelectrode array
+    - multielectrode array
+    - neuronal spiking
+    - biological neural network
+    - wetware
+    - biocomputing
+  exclude: []
