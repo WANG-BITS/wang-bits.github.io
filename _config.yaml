@@ -6,6 +6,9 @@ header: images/home_banner.png
 footer: images/home_banner.png
 proofer: false
 
+# hide the site from search engines while it is under review; set to false (or remove) to allow indexing
+noindex: true
+
 # site social media and other links
 links:
   email: wangg6@rpi.edu
