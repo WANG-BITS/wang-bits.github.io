@@ -32,4 +32,6 @@ We are grateful to our collaborators for their contributions to our work:
 - **[Dr. Christopher Puleo](https://faculty.rpi.edu/christopher-puleo)**, Rensselaer Polytechnic Institute, and **Dr. Karthikeyan Narayanan**, Director of the [CBIS Stem Cell Research Core](https://biotech.rpi.edu/core-facilities/stem-cell-research): building our synthetic biological intelligence lab and HD-MEA recording.
 - **Dr. Sergey Pryshchep**, Director of the CBIS [Cell & Molecular Biology](https://biotech.rpi.edu/core-facilities/cell-and-molecular-biology) and [Microscopy & Cellular Imaging](https://biotech.rpi.edu/core-facilities/microscopy) Cores: wet-lab training and imaging for our neural culture work.
 
+We also thank [MaxWell Biosystems](https://www.mxwbio.com/) for demonstrating their high-density microelectrode array platform at RPI.
+
 {% include figure.html image="images/team_mxwbio.jpg" caption="An HD-MEA demonstration with MaxWell Biosystems at RPI." %}
