@@ -2,12 +2,12 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Ongoing work and resources
+  tooltip: Ongoing and past projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Our projects are exploratory work in NeuroAI, much of it built on recordings from collaborating labs. We also share resources for groups starting out in synthetic biological intelligence.
+Our projects are exploratory work in NeuroAI, combining open-access recordings, data from collaborating labs, and our own experiments. Select a project to read more about it.
 
 {% include search-info.html %}
 
@@ -17,8 +17,13 @@ Our projects are exploratory work in NeuroAI, much of it built on recordings fro
 
 {% include list.html component="card" data="projects" filter="group == 'ongoing'" %}
 
+{% assign past = site.data.projects | where: "group", "past" %}
+{% if past.size > 0 %}
+
 {% include section.html %}
 
-## Resources
+## Past projects
 
-{% include list.html component="card" data="projects" filter="group == 'resource'" %}
+{% include list.html component="card" data="projects" filter="group == 'past'" %}
+
+{% endif %}
