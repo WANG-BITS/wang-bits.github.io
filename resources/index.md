@@ -50,9 +50,9 @@ A patch-clamp electrophysiology rig with an Olympus differential interference co
 
 Our wet-lab work uses CBIS core facilities, which provide equipment, training, and support.
 
-- **Cell & Molecular Biology Core.** A BSL-2+ tissue and cell culture facility with CO<sub>2</sub> incubators, environmental rooms, centrifuges, and an inverted microscope, plus real-time PCR and fluorescence and bioluminescence imaging.
-- **Stem Cell Research Core.** A fully equipped aseptic cell culture facility with biosafety cabinets, CO<sub>2</sub>/O<sub>2</sub>-controlled incubators, automated liquid handling, high-content and time-lapse imaging, dissecting and inverted microscopes, cryo storage, and a 3D bioprinter.
-- **Microscopy Core.** Brightfield, phase-contrast, widefield fluorescence, confocal (Zeiss LSM 510 META), and super-resolution STED (Leica TCS SP8) microscopy, laser dissection, and atomic force microscopy, with training and sample-preparation support.
+- **[Cell & Molecular Biology Core](https://biotech.rpi.edu/core-facilities/cell-and-molecular-biology).** A BSL-2+ tissue and cell culture facility with CO<sub>2</sub> incubators, environmental rooms, centrifuges, and an inverted microscope, plus real-time PCR and fluorescence and bioluminescence imaging.
+- **[Stem Cell Research Core](https://biotech.rpi.edu/core-facilities/stem-cell-research).** A fully equipped aseptic cell culture facility with biosafety cabinets, CO<sub>2</sub>/O<sub>2</sub>-controlled incubators, automated liquid handling, high-content and time-lapse imaging, dissecting and inverted microscopes, cryo storage, and a 3D bioprinter.
+- **[Microscopy & Cellular Imaging Core](https://biotech.rpi.edu/core-facilities/microscopy).** Brightfield, phase-contrast, widefield fluorescence, confocal (Zeiss LSM 510 META), and super-resolution STED (Leica TCS SP8) microscopy, laser dissection, and atomic force microscopy, with training and sample-preparation support.
 
 {% include figure.html image="images/resources/microscopy-core.jpg" caption="An inverted fluorescence microscope in the CBIS Microscopy Core." width="40%" %}
 
