@@ -2,14 +2,29 @@
 title: Resources
 nav:
   order: 4
-  tooltip: Lab equipment, facilities, and computing
+  tooltip: Code, data, equipment, and facilities
 ---
 
 # {% include icon.html icon="fa-solid fa-flask" %}Resources
 
-Wang-BITS lab is part of the Biomedical Imaging Center at Rensselaer Polytechnic Institute, housed in the Center for Biotechnology and Interdisciplinary Studies (CBIS). Our work draws on our own electrophysiology equipment, CBIS core facilities for cell culture and imaging, and the Center's GPU servers and RPI's supercomputing resources for modeling.
+Wang-BITS lab is part of the Biomedical Imaging Center at Rensselaer Polytechnic Institute, housed in the Center for Biotechnology and Interdisciplinary Studies (CBIS). Here we share our code and the datasets we use. Our work also draws on our own electrophysiology equipment, CBIS core facilities for cell culture and imaging, and the Center's GPU servers and RPI's supercomputing resources for modeling.
 
 {% include figure.html image="images/resources/cbis.jpg" caption="The Center for Biotechnology and Interdisciplinary Studies (CBIS) at Rensselaer Polytechnic Institute." %}
+
+{% include section.html %}
+
+## Code & data
+
+### {% include icon.html icon="fa-brands fa-github" %}Code
+
+- **[Organoid-Binary-Spike-Spatiotemporal-Data-Modeling](https://github.com/tanveerderik/Organoid-Binary-Spike-Spatiotemporal-Data-Modeling).** A hierarchical vector-quantized autoencoder and factorized generative prior for ultra-sparse spiking activity on high-density microelectrode arrays, including training stages and the full evaluation harness. Accompanies [our preprint](https://arxiv.org/abs/2609.23907).
+
+### {% include icon.html icon="fa-solid fa-database" %}Datasets we use
+
+Our generative modeling uses publicly released high-density microelectrode array recordings from our collaborators' labs:
+
+- **[Extracellular recordings from human brain organoids using high-density CMOS arrays](https://doi.org/10.25349/D9031Z)** (Dryad). Recordings of human brain organoids, from Sharf et al. and the Kosik Lab, UC Santa Barbara.
+- **[Multimodal evaluation of network activity and optogenetic interventions in human hippocampal slices](https://dandiarchive.org/dandiset/001132)** (DANDI Archive, dandiset 001132). Recordings of acute human hippocampal slices, from Andrews et al. (2024).
 
 {% include section.html %}
 

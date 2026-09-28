@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Our projects span computational modeling of neural recordings, using data from our collaborators, and building the experimental side of synthetic biological intelligence. Select a project to read more about it.
+Our projects span computational modeling of neural recordings, using publicly released data from our collaborators' labs, and building the experimental side of synthetic biological intelligence. Select a project to read more about it.
 
 {% include search-info.html %}
 

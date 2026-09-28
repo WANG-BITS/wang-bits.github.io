@@ -7,7 +7,7 @@
   group: ongoing
   image: images/projects/neural-data-modeling.png
   link: projects/neural-data-modeling
-  description: Discrete generative models that learn a shared vocabulary of spatiotemporal spiking motifs across recordings from human brain organoids and hippocampal tissue, using data from our collaborators.
+  description: Discrete generative models that learn a shared vocabulary of spatiotemporal spiking motifs across recordings from human brain organoids and hippocampal tissue, using publicly released data from our collaborators' labs.
   tags:
     - Neural data modeling
     - Generative models

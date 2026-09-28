@@ -20,7 +20,7 @@ We treat the electrode array as a fixed spatial canvas and learn a discrete voca
 
 - **A sparse tokenizer.** Recordings are split into small spatiotemporal patches. Empty patches get a dedicated blank token, and active patches are encoded by a residual vector-quantized autoencoder into a shared alphabet of motifs.
 - **A factorized generative prior.** A masked transformer first predicts _where_ activity occurs, then _which_ motif appears at each active location, mirroring the structure of the data.
-- **Shared across preparations.** The model is trained on HD-MEA recordings from human brain organoids and acute human hippocampal tissue from our collaborators, recorded on the same platform, so a single vocabulary covers both.
+- **Shared across preparations.** The model is trained on publicly released HD-MEA recordings of human brain organoids and acute human hippocampal tissue from our collaborators' labs, recorded on the same platform, so a single vocabulary covers both.
 
 The learned motifs are broadly reused: recording identity explains only a small fraction of which motifs are used, and motif overlap between organoids and tissue slices is comparable to overlap within each.
 
@@ -45,6 +45,10 @@ The same model can generate activity as well as reconstruct it. Given nothing, i
 - **Longer term.** A model that predicts future activity under given conditions is the forward model that closed-loop training of living neural networks would need, and a baseline for measuring how networks respond to stimulation or disease.
 
 {% include section.html %}
+
+## Code and data
+
+The code and the datasets used in this project are listed on our [Resources](../../resources/) page.
 
 ## Related publications
 

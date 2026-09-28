@@ -5,6 +5,18 @@
 
 - id: arxiv:2609.23907
   type: preprint
+  image: images/publications/generative-model.png
+  buttons:
+    - type: source
+      icon: fa-brands fa-github
+      text: Code
+      link: https://github.com/tanveerderik/Organoid-Binary-Spike-Spatiotemporal-Data-Modeling
+    - type: data
+      text: Organoid data
+      link: https://doi.org/10.25349/D9031Z
+    - type: data
+      text: Hippocampal data
+      link: https://dandiarchive.org/dandiset/001132
   description: A discrete generative model of neuronal spiking activity recorded on high-density microelectrode arrays. A residual vector-quantized autoencoder learns a shared vocabulary of spatiotemporal motifs, and a factorized masked transformer generates array-wide activity, evaluated on human brain organoids and ex vivo human hippocampal tissue.
   tags:
     - NeuroAI
@@ -14,6 +26,7 @@
 
 - id: arxiv:2509.23896
   type: preprint
+  image: images/publications/neuroai-review.png
   description: A review organizing the NeuroAI landscape into hardware, software, and wetware, with a focus on computational frameworks that couple living neural tissue with digital algorithms, including organoid intelligence, neuromorphic computing, and neuro-symbolic learning.
   tags:
     - NeuroAI
@@ -22,6 +35,7 @@
 
 - id: doi:10.1016/j.patter.2025.101232
   type: paper
+  image: images/publications/sbi-lab-guide.jpg
   description: A practical guide for computational labs entering synthetic biological intelligence (and for biological labs adopting its computational side), covering step-by-step processes, risks, and precautions to avoid delays and minimize cost.
   buttons:
     - type: preprint
@@ -32,6 +46,7 @@
 
 - id: doi:10.1038/s42256-023-00666-w
   type: paper
+  image: images/publications/dishbrain.png
   description: An in vitro biological system of cultured brain cells has learned to play Pong. This feat opens up an avenue towards the convergence of biological and machine intelligence.
   tags:
     - Synthetic biological intelligence
