@@ -1,11 +1,11 @@
 # projects shown on the Projects page
-# group: ongoing (Ongoing projects section) or past (Past projects section, for finished or paused work)
+# group: ongoing (Ongoing projects section) or past (Past projects section, shown only when a project uses it)
 # link: the project's own page, in projects/<name>/index.md
 
 - title: Generative models of neural activity
   subtitle: Neural data modeling on high-density microelectrode arrays
   group: ongoing
-  image: images/projects/neural-data-modeling.jpg
+  image: images/projects/neural-data-modeling.png
   link: projects/neural-data-modeling
   description: Discrete generative models that learn a shared vocabulary of spatiotemporal spiking motifs across recordings from human brain organoids and hippocampal tissue, using data from our collaborators.
   tags:
@@ -14,11 +14,11 @@
     - Brain organoids
 
 - title: Building a synthetic biological intelligence lab
-  subtitle: Neural culture and microelectrode-array recording · paused
-  group: past
+  subtitle: Neural culture and microelectrode-array recording
+  group: ongoing
   image: images/projects/sbi-wet-lab.jpg
   link: projects/sbi-wet-lab
-  description: We set up a wet-lab workflow for culturing neurons on microelectrode arrays and documented it as a guide for computational labs entering the field. This work is paused, and we plan to resume it in the future.
+  description: Building a wet-lab workflow for culturing neurons on microelectrode arrays, documented as a guide for computational labs entering the field, with the goal of closed-loop experiments.
   tags:
     - Synthetic biological intelligence
     - Neural culture

@@ -4,7 +4,7 @@ title: Building a synthetic biological intelligence lab
 
 # Building a synthetic biological intelligence lab
 
-_Neural culture and microelectrode-array recording_ · **Status:** paused
+_Neural culture and microelectrode-array recording_ · **Status:** ongoing
 
 {% include section.html %}
 
@@ -14,7 +14,7 @@ Synthetic biological intelligence (SBI) needs expertise that rarely sits in one 
 
 As a computational lab, we set out to build the biological side ourselves: culturing neurons on microelectrode arrays, recording their activity, and preparing the infrastructure a closed-loop experiment would need. We documented the process, including what went wrong and how to avoid it, as a practical guide for other labs.
 
-## What we did
+## What we have done
 
 - **Culture workflow.** Workspace preparation and sterilization, substrate coating, cell plating, media preparation and exchange, contamination control, viability monitoring, and maturation, drawing on both primary neural cultures and human iPSC-derived neurons.
 - **Choosing an electrophysiology interface.** Comparing patch clamp, calcium and voltage imaging, passive MEAs, and high-density CMOS MEAs, which support repeated extracellular recording and stimulation over long periods.
@@ -37,9 +37,9 @@ As a computational lab, we set out to build the biological side ourselves: cultu
 
 These recordings also showed us the limits of summary statistics, which motivated our ongoing work on [generative models of neural activity](../neural-data-modeling/).
 
-## Status
+## What's next
 
-This work is currently paused. We plan to resume it in the future, with the goal of running closed-loop experiments in which cultured networks are trained on tasks.
+Our goal is to run closed-loop experiments in which cultured networks are trained on tasks, connecting the wet-lab platform with our computational models of neural activity.
 
 {% include section.html %}
 

@@ -19,7 +19,7 @@ High-density microelectrode arrays record extremely sparse, array-wide spiking a
 
 ### {% include icon.html icon="fa-solid fa-brain" %}Synthetic Biological Intelligence and Organoid Intelligence
 
-Synthetic Biological Intelligence (SBI) and Organoid Intelligence (OI) embed living neural networks, grown in vitro, in engineered hardware and software and train them on goal-directed tasks. We are interested in the computational frameworks that connect wetware with software and hardware, from stimulation and recording pipelines to closed-loop training, and we have documented how computational labs can enter the field.
+Synthetic Biological Intelligence (SBI) and Organoid Intelligence (OI) embed living neural networks, grown in vitro, in engineered hardware and software and train them on goal-directed tasks. We are building a wet-lab workflow for culturing neurons on microelectrode arrays, documenting how computational labs can enter the field, and working toward the computational frameworks that connect wetware with software and hardware, from stimulation and recording pipelines to closed-loop training.
 
 ### {% include icon.html icon="fa-solid fa-heart-pulse" %}Neural function in health and disease
 

@@ -22,13 +22,21 @@ We treat the electrode array as a fixed spatial canvas and learn a discrete voca
 - **A factorized generative prior.** A masked transformer first predicts _where_ activity occurs, then _which_ motif appears at each active location, mirroring the structure of the data.
 - **Shared across preparations.** The model is trained on HD-MEA recordings from human brain organoids and acute human hippocampal tissue from our collaborators, recorded on the same platform, so a single vocabulary covers both.
 
+The learned motifs are broadly reused: recording identity explains only a small fraction of which motifs are used, and motif overlap between organoids and tissue slices is comparable to overlap within each.
+
 {%
   include figure.html
-  image="images/projects/figures/motif-vocabulary.png"
-  caption="The most frequently used motifs, and evidence that the vocabulary is reused across recordings and across organoid and tissue-slice preparations."
+  image="images/projects/figures/tokenizer-reconstruction.png"
+  caption="Reconstructing activity from motif tokens, for two brain-organoid recordings (A, B) and two ex vivo hippocampal recordings (C, D). Blue marks correctly reconstructed spikes, red missed spikes, and yellow spurious ones; the right column is each recording's site map. The bottom row compares summary statistics of real and reconstructed clips across the test set. From Tanveer et al., arXiv:2609.23907."
 %}
 
-The learned motifs are broadly reused: recording identity explains only a small fraction of which motifs are used, and motif overlap between organoids and tissue slices is comparable to overlap within each. The model supports masked completion and free generation of array-wide activity.
+The same model can generate activity as well as reconstruct it. Given nothing, it generates an entire clip; given part of a clip, it completes the rest, whether that means predicting later frames from earlier ones, filling a gap in time, or filling in a region of the array.
+
+{%
+  include figure.html
+  image="images/projects/figures/generation-and-completion.png"
+  caption="One recorded clip under four tasks: free generation with nothing observed (R), causal completion of later frames (C), non-causal completion of a gap in time (N), and spatial completion of part of the array (S). Gray panels are observed and black panels are generated. From Tanveer et al., arXiv:2609.23907."
+%}
 
 ## What's next
 
