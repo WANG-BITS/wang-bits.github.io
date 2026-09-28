@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Our projects are exploratory work in NeuroAI, combining open-access recordings, data from collaborating labs, and our own experiments. Select a project to read more about it.
+Our current work focuses on computational modeling of neural recordings shared by our collaborators. Select a project to read more about it.
 
 {% include search-info.html %}
 
