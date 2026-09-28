@@ -23,7 +23,7 @@ An MEA2100 system (Multi Channel Systems) records electrical activity from cultu
 
 ### {% include icon.html icon="fa-solid fa-bolt" %}X-ray electrophysiological stimulation platform
 
-A platform originally built to combine x-ray stimulation with optogenetics, now repurposed for NeuroAI research. It combines a microfocus x-ray source with a collimator and a PC-controlled solenoid shutter to deliver pencil-beam x-ray pulses, a visible light source, a Faraday cage, platinum electrodes with a differential amplifier, and a PowerLab unit (ADInstruments) that coordinates the system.
+A platform originally built to combine x-ray stimulation with optogenetics, developed in Dr. Wang's earlier work on x-ray optogenetics ([Berry et al., _Photonics_ 2015](https://doi.org/10.3390/photonics2010023)), and now repurposed for NeuroAI research. It combines a microfocus x-ray source with a collimator and a PC-controlled solenoid shutter to deliver pencil-beam x-ray pulses, a visible light source, a Faraday cage, platinum electrodes with a differential amplifier, and a PowerLab unit (ADInstruments) that coordinates the system.
 
 ### {% include icon.html icon="fa-solid fa-magnifying-glass" %}Patch-clamp setup
 
