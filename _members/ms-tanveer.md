@@ -2,8 +2,9 @@
 name: Tanveer (Derik) Azam
 image: images/team_current_member_derik.jpg
 role: phd
-description: Co-investigator
+description: PhD Student
 group: current
+affiliation: Rensselaer Polytechnic Institute
 aliases:
   - Md Sayed Tanveer
 links:

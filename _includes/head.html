@@ -2,6 +2,9 @@
   {% include analytics.html %}
   {% include verification.html %}
   {% include meta.html %}
+  {% if site.noindex %}
+    <meta name="robots" content="noindex, nofollow">
+  {% endif %}
   {% include fonts.html %}
   {% include styles.html %}
   {% include scripts.html %}

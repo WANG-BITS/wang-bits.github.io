@@ -1,47 +1,24 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+# projects shown on the Projects page
+# group: ongoing (Ongoing projects section) or past (Past projects section, shown only when a project uses it)
+# link: the project's own page, in projects/<name>/index.md
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Generative models of neural activity
+  subtitle: Neural data modeling on high-density microelectrode arrays
+  group: ongoing
+  image: images/projects/neural-data-modeling.png
+  link: projects/neural-data-modeling
+  description: Discrete generative models that learn a shared vocabulary of spatiotemporal spiking motifs across recordings from human brain organoids and hippocampal tissue, using publicly released data from our collaborators' labs.
   tags:
-    - resource
+    - Neural data modeling
+    - Generative models
+    - Brain organoids
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Building a synthetic biological intelligence lab
+  subtitle: Neural culture and microelectrode-array recording
+  group: ongoing
+  image: images/projects/sbi-wet-lab.jpg
+  link: projects/sbi-wet-lab
+  description: Building a wet-lab workflow for culturing neurons on microelectrode arrays, documented as a guide for computational labs entering the field, with the goal of closed-loop experiments.
   tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - Synthetic biological intelligence
+    - Neural culture

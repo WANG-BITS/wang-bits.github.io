@@ -1,12 +1,21 @@
 ---
 ---
 
-### THE WEBSITE IS CURRENTLY UNDER DEVELOPMENT ###
-### WE APOLOGISE FOR ANY INCONVENIENCE WHILE BROWSING ###
-
 # WANG-BITS Lab
 
-Bioengineered Intelligence Theory and Systems (BITS) Lab is led by [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang), affiliated with the [Center for Biotechnology and Interdisciplinary Studies](https://biotech.rpi.edu/) and the [Department of Biomedical Engineering](https://bme.rpi.edu/), [Rensselaer Polytechnic Institute](https://www.rpi.edu/). Our focus is exploring both theoretical and experimental aspects of Synthetic Biological Intelligence (SBI) and Organoid Intelligence (OI), where neurons are grown in vitro, interfaced with electronic devices, and trained to perform various intelligent tasks.
+The Bioengineered Intelligence Theory and Systems (BITS) Lab is led by [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang) and affiliated with the [Center for Biotechnology and Interdisciplinary Studies](https://biotech.rpi.edu/) and the [Department of Biomedical Engineering](https://bme.rpi.edu/) at [Rensselaer Polytechnic Institute](https://www.rpi.edu/). We work on **NeuroAI**, the intersection of neuroscience and artificial intelligence: modeling the activity of lab-grown neural networks and brain organoids with deep learning, and building toward synthetic biological intelligence, where living neurons are interfaced with electronics and trained to perform tasks.
+
+BITS is part of Dr. Wang's Biomedical Imaging Center, alongside our sister lab [Wang-AXIS](https://wang-axis.github.io/), and works in collaboration with the [Braingeneers](https://braingeneers.ucsc.edu/) group at UC Santa Cruz and [Cortical Labs](https://corticallabs.com/).
+
+{% include section.html %}
+
+## News
+
+<ul class="news">
+{% for item in site.data.news limit: 5 %}
+  <li><strong>{{ item.date | date: "%b %Y" }}</strong> · {{ item.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</li>
+{% endfor %}
+</ul>
 
 {% include section.html %}
 
@@ -14,12 +23,12 @@ Bioengineered Intelligence Theory and Systems (BITS) Lab is led by [Dr. Ge Wang]
 
 {% capture text %}
 
-At Wang-BITS lab, we study Synthetic Biological Intelligence and Organoid Intelligence, modeling lab-grown neural networks with AI and investigating their functionality, stimulation effects, and disease implications.
+We develop deep generative models of neural activity recorded on microelectrode arrays, study synthetic biological intelligence and organoid intelligence, and aim to understand how in vitro neural networks respond to stimulation and disease.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research and publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -37,7 +46,7 @@ At Wang-BITS lab, we study Synthetic Biological Intelligence and Organoid Intell
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our ongoing projects include generative models of spiking activity on high-density microelectrode arrays and building a synthetic biological intelligence lab for neural culture and recording.
 
 {%
   include button.html
@@ -52,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects/neural-data-modeling.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -62,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Led by Dr. Ge Wang, our PhD researchers work on neural data modeling and synthetic biological intelligence, with collaborators at RPI, UC Santa Cruz, and Cortical Labs.
 
 {%
   include button.html
@@ -77,8 +86,33 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team_mxwbio.jpg"
   link="team"
   title="Our Team"
+  text=text
+%}
+
+{% capture text %}
+
+We share our code and the datasets we use, alongside the equipment, facilities, and computing behind our work.
+
+{%
+  include button.html
+  link="resources"
+  text="Explore resources"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/resources/mea2100.jpg"
+  link="resources"
+  title="Resources"
+  flip=true
+  style="bare"
   text=text
 %}

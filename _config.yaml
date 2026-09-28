@@ -1,19 +1,19 @@
 # site properties and page defaults
 title: WANG-BITS
-subtitle: Welcome to our Wang-BITS Lab!
-description: Bioengineered Intelligence Theory and Systems (BITS) Lab is led by Dr. Ge Wang, affiliated with the Center for Biotechnology and Interdisciplinary Studies and the Department of Biomedical Engineering, Rensselaer Polytechnic Institute. Our focus is exploring both theoretical and experimental aspects of Synthetic Biological Intelligence (SBI) and Organoid Intelligence (OI), where neurons are grown in vitro, interfaced with electronic devices and trained to perform various intelligent tasks.
+subtitle: NeuroAI at Rensselaer Polytechnic Institute
+description: "Bioengineered Intelligence Theory and Systems (BITS) Lab at Rensselaer Polytechnic Institute, led by Dr. Ge Wang. We work on NeuroAI: deep generative models of neural activity recorded from lab-grown neural networks and brain organoids, and synthetic biological intelligence, where living neurons are interfaced with electronics and trained to perform tasks."
 header: images/home_banner.png
 footer: images/home_banner.png
 proofer: false
+
+# hide the site from search engines while it is under review; set to false (or remove) to allow indexing
+noindex: true
 
 # site social media and other links
 links:
   email: wangg6@rpi.edu
   orcid: 0000-0002-2656-7705
   google-scholar: pjK2mQwAAAAJ
-  github: WANG-BITS
-  twitter: WANG-BITS
-  youtube: WANG-BITS
 
 ### jekyll settings
 
