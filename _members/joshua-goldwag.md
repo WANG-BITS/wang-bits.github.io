@@ -1,5 +1,6 @@
 ---
 name: Joshua Goldwag
+image: images/fallback.svg
 description: Former member
 group: alumni
 links:
