@@ -43,21 +43,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Team | WANG-BITS</title>
+<title>Building a synthetic biological intelligence lab | WANG-BITS</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="Team">
+<meta name="title" content="Building a synthetic biological intelligence lab">
 <meta name="description" content="NeuroAI at Rensselaer Polytechnic Institute. Bioengineered Intelligence Theory and Systems (BITS) Lab at Rensselaer Polytechnic Institute, led by Dr. Ge Wang. We work on NeuroAI: deep generative models of neural activity recorded from lab-grown neural networks and brain organoids, and synthetic biological intelligence, where living neurons are interfaced with electronics and trained to perform tasks.">
 
-<meta property="og:title" content="Team">
+<meta property="og:title" content="Building a synthetic biological intelligence lab">
 <meta property="og:site_title" content="WANG-BITS">
 <meta property="og:description" content="NeuroAI at Rensselaer Polytechnic Institute. Bioengineered Intelligence Theory and Systems (BITS) Lab at Rensselaer Polytechnic Institute, led by Dr. Ge Wang. We work on NeuroAI: deep generative models of neural activity recorded from lab-grown neural networks and brain organoids, and synthetic biological intelligence, where living neurons are interfaced with electronics and trained to perform tasks.">
 <meta property="og:url" content="https://wang-bits.github.io">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Team">
+<meta property="twitter:title" content="Building a synthetic biological intelligence lab">
 <meta property="twitter:description" content="NeuroAI at Rensselaer Polytechnic Institute. Bioengineered Intelligence Theory and Systems (BITS) Lab at Rensselaer Polytechnic Institute, led by Dr. Ge Wang. We work on NeuroAI: deep generative models of neural activity recorded from lab-grown neural networks and brain organoids, and synthetic biological intelligence, where living neurons are interfaced with electronics and trained to perform tasks.">
 <meta property="twitter:url" content="https://wang-bits.github.io">
 <meta property="twitter:card" content="summary_large_image">
@@ -73,9 +73,9 @@
     
       "@type": "WebSite",
     
-    "name": "Team",
+    "name": "Building a synthetic biological intelligence lab",
     "description": "NeuroAI at Rensselaer Polytechnic Institute. Bioengineered Intelligence Theory and Systems (BITS) Lab at Rensselaer Polytechnic Institute, led by Dr. Ge Wang. We work on NeuroAI: deep generative models of neural activity recorded from lab-grown neural networks and brain organoids, and synthetic biological intelligence, where living neurons are interfaced with electronics and trained to perform tasks.",
-    "headline": "Team",
+    "headline": "Building a synthetic biological intelligence lab",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -516,8 +516,9 @@
   
 
   <section class="background" data-size="page">
-    <h1 id="team">
-<i class="icon fa-solid fa-users"></i>Team</h1>
+    <h1 id="building-a-synthetic-biological-intelligence-lab">Building a synthetic biological intelligence lab</h1>
+
+<p><em>Neural culture and microelectrode-array recording</em> · <strong>Status:</strong> ongoing</p>
   </section>
 
   
@@ -531,65 +532,157 @@
   size: ;
 -->
 
-<h2 id="principal-investigator">Principal Investigator</h2>
+<h2 id="overview">Overview</h2>
 
-<div class="portrait-wrapper">
-  <a href="/members/ge-wang.html" class="portrait" data-style="" aria-label="Ge Wang">
-    
-      <i class="icon fa-solid fa-microscope"></i>
-    
+<p>Synthetic biological intelligence (SBI) needs expertise that rarely sits in one lab: tissue engineering, cell culture, electrophysiology, signal processing, programming, and AI. Most groups specialize in either the biological or the computational side, so starting SBI research is slow and costly.</p>
 
-    <img src="/images/team_pi_ge_wang.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+<p>As a computational lab, we set out to build the biological side ourselves: culturing neurons on microelectrode arrays, recording their activity, and preparing the infrastructure a closed-loop experiment would need. We documented the process, including what went wrong and how to avoid it, as a practical guide for other labs.</p>
 
-    
-      <span class="portrait-name">
-        Ge Wang
-      </span>
-    
+<h2 id="what-we-have-done">What we have done</h2>
 
-    
-      <span class="portrait-description">
-        Principal Investigator
-      </span>
-    
+<ul>
+  <li>
+<strong>Culture workflow.</strong> Workspace preparation and sterilization, substrate coating, cell plating, media preparation and exchange, contamination control, viability monitoring, and maturation, drawing on both primary neural cultures and human iPSC-derived neurons.</li>
+  <li>
+<strong>Choosing an electrophysiology interface.</strong> Comparing patch clamp, calcium and voltage imaging, passive MEAs, and high-density CMOS MEAs, which support repeated extracellular recording and stimulation over long periods.</li>
+  <li>
+<strong>Recording spontaneous activity.</strong> Recording cultured networks on HD-MEA chips and characterizing firing rates, spike amplitudes, interspike intervals, and network bursts.</li>
+  <li>
+<strong>Planning for closed-loop experiments.</strong> Specifying the real-time software interface that closing the loop between recording, a task, and stimulation would require.</li>
+</ul>
 
-    
-      <span class="portrait-affiliation">
-        Rensselaer Polytechnic Institute
-      </span>
-    
+<figure class="figure">
+  <a class="figure-image" aria-label="An HD-MEA recording from a cultured neural network: culture images, firing-rate and spike-amplitude maps, interspike intervals, raster activity, and network-burst statistics. Adapted from Tanveer et al., Patterns 2025 .">
+    <img src="/images/projects/figures/hdmea-recording.jpg" style="
+        width: 75%;
+        max-height: unset;
+      " alt="An HD-MEA recording from a cultured neural network: culture images, firing-rate and spike-amplitude maps, interspike intervals, raster activity, and network-burst statistics. Adapted from Tanveer et al., Patterns 2025 ." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
+  
+    <figcaption class="figure-caption">
+      An HD-MEA recording from a cultured neural network: culture images, firing-rate and spike-amplitude maps, interspike intervals, raster activity, and network-burst statistics. Adapted from Tanveer et al., <em>Patterns</em> (2025).
+
+    </figcaption>
+  
+</figure>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="Neural cultures on microelectrode arrays top and the development of spiking, bursting, and network-burst activity over days in vitro across six chips bottom . Cultures prepared the same way can behave very differently. Adapted from Tanveer et al., Patterns 2025 .">
+    <img src="/images/projects/figures/culture-variability.jpg" style="
+        width: 75%;
+        max-height: unset;
+      " alt="Neural cultures on microelectrode arrays top and the development of spiking, bursting, and network-burst activity over days in vitro across six chips bottom . Cultures prepared the same way can behave very differently. Adapted from Tanveer et al., Patterns 2025 ." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+    <figcaption class="figure-caption">
+      Neural cultures on microelectrode arrays (top) and the development of spiking, bursting, and network-burst activity over days in vitro across six chips (bottom). Cultures prepared the same way can behave very differently. Adapted from Tanveer et al., <em>Patterns</em> (2025).
+
+    </figcaption>
+  
+</figure>
+
+<p>These recordings also showed us the limits of summary statistics, which motivated our ongoing work on <a href="../neural-data-modeling/">generative models of neural activity</a>.</p>
+
+<h2 id="whats-next">What’s next</h2>
+
+<p>Our goal is to run closed-loop experiments in which cultured networks are trained on tasks, connecting the wet-lab platform with our computational models of neural activity.</p>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h2 id="related-publications">Related publications</h2>
+
+<div class="citation-container">
+  <div class="citation">
+    
+      <a href="https://doi.org/hbfm5r" class="citation-image" aria-label="Starting a synthetic biological intelligence lab from scratch">
+        <img src="/images/publications/sbi-lab-guide.jpg" alt="Starting a synthetic biological intelligence lab from scratch" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
+    
+
+    <div class="citation-text">
+      
+      <i class="icon fa-solid fa-scroll"></i>
+
+      <a href="https://doi.org/hbfm5r" class="citation-title">
+        Starting a synthetic biological intelligence lab from scratch
+      </a>
+
+      <div class="citation-authors" data-tooltip="Md Sayed Tanveer, Dhruvik Patel, Hunter E. Schweiger, Kwaku Dad Abu-Bonsrah, Brad Watmuff, Azin Azadi, Sergey Pryshchep, Karthikeyan Narayanan, Christopher Puleo, Kannathal Natarajan, Mohammed A. Mostajo-Radji, Brett J. Kagan, Ge Wang" tabindex="0">
+        Md Sayed Tanveer, Dhruvik Patel, Hunter E. Schweiger, Kwaku Dad Abu-Bonsrah, Brad Watmuff, …, Christopher Puleo, Kannathal Natarajan, Mohammed A. Mostajo-Radji, Brett J. Kagan, Ge Wang
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Patterns</span>
+         · 
+        <span class="citation-date">01 May 2025</span>
+         · 
+        <span class="citation-id">doi:10.1016/j.patter.2025.101232</span>
+      </div>
+
+      
+        
+          <div class="citation-description">
+            A practical guide for computational labs entering synthetic biological intelligence (and for biological labs adopting its computational side), covering step-by-step processes, risks, and precautions to avoid delays and minimize cost.
+
+          </div>
+        
+
+        
+          <div class="citation-buttons">
+            
+              
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://arxiv.org/abs/2412.14112" data-tooltip="Preprint" data-style="bare" aria-label="Preprint">
+      <i class="icon fa-regular fa-eye"></i>
+      
+        <span>Preprint</span>
+      
+    </a>
+  </div>
+
+
+            
+          </div>
+        
+
+        
+          
+
+
+  <div class="tags" data-link="/projects/sbi-wet-lab/">
+    
+      <a href="/projects/sbi-wet-lab/?search=%22tag:%20synthetic-biological-intelligence%22" class="tag" data-tooltip='Show items with the tag "synthetic-biological-intelligence"'>
+        synthetic-biological-intelligence
+      </a>
+    
+      <a href="/projects/sbi-wet-lab/?search=%22tag:%20organoid-intelligence%22" class="tag" data-tooltip='Show items with the tag "organoid-intelligence"'>
+        organoid-intelligence
+      </a>
+    
+  </div>
+
+
+        
+      
+    </div>
+  </div>
 </div>
 
-<h2 id="current-members">Current members</h2>
-
-<div class="portrait-wrapper">
-  <a href="/members/mahmud-wasif-nafee.html" class="portrait" data-style="" aria-label="Mahmud Wasif Nafee">
-    
-      <i class="icon fa-solid fa-graduation-cap"></i>
-    
-
-    <img src="/images/team_current_member_wasif.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-
-    
-      <span class="portrait-name">
-        Mahmud Wasif Nafee
-      </span>
-    
-
-    
-      <span class="portrait-description">
-        PhD Student
-      </span>
-    
-
-    
-      <span class="portrait-affiliation">
-        Rensselaer Polytechnic Institute
-      </span>
-    
-  </a>
-</div>
+<h2 id="people">People</h2>
 
 <div class="portrait-wrapper">
   <a href="/members/ms-tanveer.html" class="portrait" data-style="" aria-label="Tanveer Derik Azam">
@@ -619,10 +712,8 @@
   </a>
 </div>
 
-<h2 id="alumni">Alumni</h2>
-
 <div class="portrait-wrapper">
-  <a href="/members/dhruvik-patel.html" class="portrait" data-style="small" aria-label="Dhruvik Patel">
+  <a href="/members/dhruvik-patel.html" class="portrait" data-style="" aria-label="Dhruvik Patel">
     
       <i class="icon fa-solid fa-graduation-cap"></i>
     
@@ -646,68 +737,32 @@
 </div>
 
 <div class="portrait-wrapper">
-  <a href="/members/joshua-goldwag.html" class="portrait" data-style="small" aria-label="Joshua Goldwag">
+  <a href="/members/ge-wang.html" class="portrait" data-style="" aria-label="Ge Wang">
+    
+      <i class="icon fa-solid fa-microscope"></i>
     
 
-    <img src="/images/fallback.svg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+    <img src="/images/team_pi_ge_wang.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
       <span class="portrait-name">
-        Joshua Goldwag
+        Ge Wang
       </span>
     
 
     
       <span class="portrait-description">
-        Former member
+        Principal Investigator
       </span>
     
 
     
+      <span class="portrait-affiliation">
+        Rensselaer Polytechnic Institute
+      </span>
+    
   </a>
 </div>
-  </section>
-
-  
-  
-  
-
-  <section class="background" data-size="page">
-    <!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
-<h2 id="collaborators">Collaborators</h2>
-
-<p>We are grateful to our collaborators for their contributions to our work:</p>
-
-<ul>
-  <li>
-<strong>Dr. Mohammed A. Mostajo-Radji</strong>, University of California, Santa Cruz, and the <a href="https://braingeneers.ucsc.edu/">Braingeneers</a> group: brain organoids and high-density microelectrode array recordings, in our generative modeling and synthetic biological intelligence work.</li>
-  <li>
-<strong><a href="https://corticallabs.com/">Cortical Labs</a></strong>, Melbourne, Australia, including Dr. Brett J. Kagan: synthetic biological intelligence and the DishBrain system, in our work on starting an SBI lab and on NeuroAI.</li>
-  <li>
-<strong><a href="https://faculty.rpi.edu/christopher-puleo">Dr. Christopher Puleo</a></strong>, Rensselaer Polytechnic Institute, and <strong>Dr. Karthikeyan Narayanan</strong>, Director of the <a href="https://biotech.rpi.edu/core-facilities/stem-cell-research">CBIS Stem Cell Research Core</a>: building our synthetic biological intelligence lab and HD-MEA recording.</li>
-  <li>
-<strong>Dr. Sergey Pryshchep</strong>, Director of the CBIS <a href="https://biotech.rpi.edu/core-facilities/cell-and-molecular-biology">Cell &amp; Molecular Biology</a> and <a href="https://biotech.rpi.edu/core-facilities/microscopy">Microscopy &amp; Cellular Imaging</a> Cores: wet-lab training and imaging for our neural culture work.</li>
-</ul>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="An HD-MEA demonstration with MaxWell Biosystems at RPI.">
-    <img src="/images/team_mxwbio.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="An HD-MEA demonstration with MaxWell Biosystems at RPI." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-    <figcaption class="figure-caption">
-      An HD-MEA demonstration with MaxWell Biosystems at RPI.
-
-    </figcaption>
-  
-</figure>
   </section>
 
 
