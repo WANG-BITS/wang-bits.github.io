@@ -21,10 +21,15 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="group == 'alumni'" style="small" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-We also thank our collaborators and well-wishers for their continuous help, support, and contributions.
-
 {% include section.html %}
 
-{% include figure.html image="images/team_mxwbio.jpg" %}
+## Collaborators
+
+We are grateful to our collaborators for their contributions to our work:
+
+- **Dr. Mohammed A. Mostajo-Radji**, University of California, Santa Cruz, and the [Braingeneers](https://braingeneers.ucsc.edu/) group: brain organoids and high-density microelectrode array recordings, in our generative modeling and synthetic biological intelligence work.
+- **[Cortical Labs](https://corticallabs.com/)**, Melbourne, Australia, including Dr. Brett J. Kagan: synthetic biological intelligence and the DishBrain system, in our work on starting an SBI lab and on NeuroAI.
+- **[Dr. Christopher Puleo](https://faculty.rpi.edu/christopher-puleo)** and **Dr. Karthikeyan Narayanan**, Rensselaer Polytechnic Institute: building our synthetic biological intelligence lab and HD-MEA recording.
+- **Dr. Sergey Pryshchep**, Rensselaer Polytechnic Institute: wet-lab training and imaging for our neural culture work.
+
+{% include figure.html image="images/team_mxwbio.jpg" caption="An HD-MEA demonstration with MaxWell Biosystems at RPI." %}

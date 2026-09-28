@@ -1,0 +1,14 @@
+# news shown on the homepage, newest first
+# date: YYYY-MM-DD; text: markdown (links allowed)
+
+- date: 2026-09-20
+  text: 'Preprint: "[A discrete generative model of neuronal spiking activity on microelectrode arrays](https://arxiv.org/abs/2609.23907)" is on arXiv, with [code](https://github.com/tanveerderik/Organoid-Binary-Spike-Spatiotemporal-Data-Modeling).'
+
+- date: 2025-09-28
+  text: 'Our review "[A Computational Perspective on NeuroAI and Synthetic Biological Intelligence](https://arxiv.org/abs/2509.23896)" is on arXiv.'
+
+- date: 2025-08-15
+  text: 'Mahmud Wasif Nafee joins the lab as a PhD student.'
+
+- date: 2025-04-23
+  text: '"[Starting a synthetic biological intelligence lab from scratch](https://doi.org/10.1016/j.patter.2025.101232)" is published in _Patterns_.'
