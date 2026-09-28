@@ -2,6 +2,7 @@
 name: Ge Wang
 image: images/team_pi_ge_wang.jpg
 role: principal-investigator
+group: current
 affiliation: Rensselaer Polytechnic Institute
 links:
   home-page: https://faculty.rpi.edu/ge-wang

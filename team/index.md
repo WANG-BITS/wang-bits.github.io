@@ -7,27 +7,24 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Below are our PI, Dr. Wang, and our current team members.
-
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+## Principal Investigator
 
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
+## Current members
 
+{% include list.html data="members" component="portrait" filter="group == 'current' && role != 'principal-investigator'" %}
+
+## Alumni
+
+{% include list.html data="members" component="portrait" filter="group == 'alumni'" style="small" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-We also thank our former members, collaborators, and well-wishers for their continuous help, support, and contributions.
+We also thank our collaborators and well-wishers for their continuous help, support, and contributions.
 
 {% include section.html %}
 
-{% capture content %}
-
 {% include figure.html image="images/team_mxwbio.jpg" %}
-{% include figure.html image="images/team_rpi_collaborators.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}

@@ -4,6 +4,7 @@ image: images/team_current_member_derik.jpg
 role: phd
 description: Co-investigator
 group: current
+affiliation: Rensselaer Polytechnic Institute
 aliases:
   - Md Sayed Tanveer
 links:
