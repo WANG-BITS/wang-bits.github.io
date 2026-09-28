@@ -1,47 +1,53 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+# projects shown on the Projects page
+# group: ongoing (Ongoing projects section) or resource (Resources section)
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Generative models of neural activity
+  subtitle: Neural data modeling on high-density microelectrode arrays
+  group: ongoing
+  image: images/projects/neural-data-modeling.jpg
+  link: https://arxiv.org/abs/2609.23907
+  description: Discrete generative models that learn a shared vocabulary of spatiotemporal spiking motifs across recordings from human brain organoids and hippocampal tissue, shared by collaborating labs. Next, we are extending them to predict upcoming activity.
   tags:
-    - resource
+    - Neural data modeling
+    - Generative models
+    - Brain organoids
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Toward closed-loop synthetic biological intelligence
+  subtitle: Forward models for controlling living neural networks
+  group: ongoing
+  image: images/projects/closed-loop-sbi.png
+  description: Training living neurons on tasks requires choosing stimulation from the network's recorded state. We are exploring learned forward models of neural activity for model-based reinforcement learning, active inference, and digital twins of in vitro networks.
   tags:
-    - resource
-    - publication
+    - Synthetic biological intelligence
+    - Closed-loop control
+    - Reinforcement learning
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Neural function under stimulation and disease
+  subtitle: How in vitro networks respond to perturbation
+  group: ongoing
+  image: images/projects/health-disease.jpg
+  description: How in vitro network activity changes under electrical, optical, and mechanical stimulation, and in models of neurodegenerative and neurodevelopmental disorders. We are exploring computational models that characterize and compare these conditions.
   tags:
-    - software
+    - Stimulation
+    - Disease modeling
+    - Electrophysiology
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Starting an SBI lab from scratch
+  subtitle: A practical guide, published in Patterns
+  group: resource
+  image: images/projects/sbi-lab-guide.jpg
+  link: https://doi.org/10.1016/j.patter.2025.101232
+  description: "A step-by-step guide for computational labs entering synthetic biological intelligence: neural culture, microelectrode-array recording, and the computational pipeline."
   tags:
-    - software
+    - Synthetic biological intelligence
+    - Guide
+
+- title: The NeuroAI landscape
+  subtitle: A computational perspective on NeuroAI and SBI
+  group: resource
+  image: images/projects/neuroai-review.png
+  link: https://arxiv.org/abs/2509.23896
+  description: A review that organizes NeuroAI into hardware, software, and wetware, and surveys the computational frameworks that couple living neural tissue with digital algorithms.
+  tags:
+    - NeuroAI
+    - Review

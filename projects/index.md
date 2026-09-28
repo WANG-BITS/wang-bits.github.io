@@ -2,26 +2,23 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Ongoing work and resources
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="publication, resource, website" %}
+Our projects are exploratory work in NeuroAI, much of it built on recordings from collaborating labs. We also share resources for groups starting out in synthetic biological intelligence.
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Ongoing projects
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projects" filter="group == 'ongoing'" %}
 
 {% include section.html %}
 
-## More
+## Resources
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="group == 'resource'" %}
