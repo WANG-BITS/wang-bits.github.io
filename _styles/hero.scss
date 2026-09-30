@@ -1,16 +1,23 @@
 ---
 ---
 
-// full-brightness banner under the header on the homepage.
-// it stays pinned while page content slides up over it.
+// homepage: one full-brightness banner fixed behind the whole page.
+// header and footer are translucent dark bars over it, and the page content
+// is a centered column that scrolls up over it, leaving the banner visible
+// at the sides.
+
+$glass: rgba(10, 18, 30, 0.55);
+$column: 1100px;
+
+body.has-hero {
+  background: #0b1522;
+}
 
 .hero {
-  position: sticky;
-  top: var(--header-height, 0px);
+  position: fixed;
+  inset: 0;
   z-index: 0;
-  height: min(48vh, 460px);
   overflow: hidden;
-  background: var(--background);
 }
 
 .hero img {
@@ -19,19 +26,43 @@
   height: 100%;
   object-fit: cover;
   object-position: 50% 50%;
-  transform-origin: 50% 30%;
+  transform-origin: 50% 40%;
   will-change: opacity, transform;
 }
 
-// content and footer sit above the banner so they cover it when scrolled
-.hero ~ main,
-.hero ~ footer {
+// clear window at the top where the banner shows in full
+.hero-spacer {
+  height: min(48vh, 460px);
+}
+
+body.has-hero main,
+body.has-hero footer,
+body.has-hero .hero-spacer {
   position: relative;
   z-index: 1;
 }
 
-.hero ~ main {
-  box-shadow: 0 -12px 24px rgba(0, 0, 0, 0.12);
+// translucent header and footer instead of their own background image
+body.has-hero header.background,
+body.has-hero footer.background {
+  background: $glass;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  box-shadow: none;
+}
+
+body.has-hero header.background:before,
+body.has-hero footer.background:before {
+  display: none;
+}
+
+// content as a centered column floating over the banner
+body.has-hero main {
+  width: min($column, calc(100% - 48px));
+  margin: 0 auto 48px;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
 }
 
 // subtitle line under a page's main heading
@@ -43,7 +74,12 @@
 }
 
 @media (max-width: 600px) {
-  .hero {
+  .hero-spacer {
     height: 30vh;
+  }
+
+  body.has-hero main {
+    width: calc(100% - 20px);
+    margin-bottom: 20px;
   }
 }
