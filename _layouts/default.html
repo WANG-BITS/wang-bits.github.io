@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en" data-dark="false">
   {% include head.html %}
-  <body{% if page.url == "/" and site.hero %} class="has-hero"{% endif %}>
+  <body{% if site.hero %} class="has-hero{% if page.url == "/" %} is-home{% endif %}"{% endif %}>
     {% include header.html %}
-    {% if page.url == "/" %}
-      {% include hero.html %}
-    {% endif %}
+    {% include hero.html %}
     <main>
       {% include content.html content=content %}
     </main>

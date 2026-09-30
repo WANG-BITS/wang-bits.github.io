@@ -1,7 +1,7 @@
 ---
 ---
 
-// homepage: one full-brightness banner fixed behind the whole page.
+// every page: one full-brightness banner fixed behind the whole page.
 // header and footer are translucent dark bars over it, and the page content
 // is a centered column that scrolls up over it, leaving the banner visible
 // at the sides.
@@ -30,8 +30,13 @@ body.has-hero {
   will-change: opacity, transform;
 }
 
-// clear window at the top where the banner shows in full
+// clear window at the top where the banner shows through:
+// tall on the homepage, short on other pages so their content starts sooner
 .hero-spacer {
+  height: clamp(90px, 18vh, 180px);
+}
+
+body.is-home .hero-spacer {
   height: min(48vh, 460px);
 }
 
@@ -75,6 +80,10 @@ body.has-hero main {
 
 @media (max-width: 600px) {
   .hero-spacer {
+    height: 70px;
+  }
+
+  body.is-home .hero-spacer {
     height: 30vh;
   }
 
