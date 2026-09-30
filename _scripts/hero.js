@@ -1,32 +1,23 @@
 /*
-  homepage banner: pin it just below the header, and gently fade and zoom it
-  as page content scrolls up over it
+  homepage banner: gently dim and zoom the fixed background banner as page
+  content scrolls up over it
 */
 
 {
   const onLoad = () => {
     const hero = document.querySelector(".hero");
-    const header = document.querySelector("header");
-    if (!hero || !header) return;
+    const spacer = document.querySelector(".hero-spacer");
+    if (!hero || !spacer) return;
     const image = hero.querySelector("img");
-
-    // keep banner just below the (sticky) header
-    const setHeaderHeight = () =>
-      document.documentElement.style.setProperty(
-        "--header-height",
-        header.offsetHeight + "px"
-      );
-    setHeaderHeight();
-    window.addEventListener("resize", setHeaderHeight);
 
     // respect users who prefer less motion
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
 
     let ticking = false;
     const update = () => {
-      const progress = Math.min(window.scrollY / hero.offsetHeight, 1);
-      image.style.opacity = 1 - progress * 0.6;
-      image.style.transform = `scale(${1 + progress * 0.06})`;
+      const progress = Math.min(window.scrollY / spacer.offsetHeight, 1);
+      image.style.opacity = 1 - progress * 0.35;
+      image.style.transform = `scale(${1 + progress * 0.05})`;
       ticking = false;
     };
     window.addEventListener(
