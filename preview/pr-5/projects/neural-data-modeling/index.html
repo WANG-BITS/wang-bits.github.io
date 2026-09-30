@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<html lang="en" data-dark="false">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!--
+  put your analytics (e.g. Google Analytics) tracking code here
+-->
+
+  <!--
+  put your search engine verification (e.g. Google Search Console) tag here
+-->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Generative models of neural activity | WANG-BITS</title>
+
+<link rel="icon" href="/preview/pr-5/images/icon.png">
+
+<meta name="title" content="Generative models of neural activity">
+<meta name="description" content="Biological Intelligence Theory and Systems. Bioengineered Intelligence Theory and Systems (BITS) Lab at Rensselaer Polytechnic Institute, led by Dr. Ge Wang. We work on NeuroAI: deep generative models of neural activity recorded from lab-grown neural networks and brain organoids, and synthetic biological intelligence, where living neurons are interfaced with electronics and trained to perform tasks.">
+
+<meta property="og:title" content="Generative models of neural activity">
+<meta property="og:site_title" content="WANG-BITS">
+<meta property="og:description" content="Biological Intelligence Theory and Systems. Bioengineered Intelligence Theory and Systems (BITS) Lab at Rensselaer Polytechnic Institute, led by Dr. Ge Wang. We work on NeuroAI: deep generative models of neural activity recorded from lab-grown neural networks and brain organoids, and synthetic biological intelligence, where living neurons are interfaced with electronics and trained to perform tasks.">
+<meta property="og:url" content="/preview/pr-5">
+<meta property="og:image" content="/preview/pr-5/images/share.jpg">
+<meta property="og:locale" content="en_US">
+
+<meta property="twitter:title" content="Generative models of neural activity">
+<meta property="twitter:description" content="Biological Intelligence Theory and Systems. Bioengineered Intelligence Theory and Systems (BITS) Lab at Rensselaer Polytechnic Institute, led by Dr. Ge Wang. We work on NeuroAI: deep generative models of neural activity recorded from lab-grown neural networks and brain organoids, and synthetic biological intelligence, where living neurons are interfaced with electronics and trained to perform tasks.">
+<meta property="twitter:url" content="/preview/pr-5">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="/preview/pr-5/images/share.jpg">
+
+
+  <meta property="og:type" content="website">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "WebSite",
+    
+    "name": "Generative models of neural activity",
+    "description": "Biological Intelligence Theory and Systems. Bioengineered Intelligence Theory and Systems (BITS) Lab at Rensselaer Polytechnic Institute, led by Dr. Ge Wang. We work on NeuroAI: deep generative models of neural activity recorded from lab-grown neural networks and brain organoids, and synthetic biological intelligence, where living neurons are interfaced with electronics and trained to perform tasks.",
+    "headline": "Generative models of neural activity",
+    "publisher": {
+      "@type": "Organization",
+      "logo": { "@type": "ImageObject", "url": "/preview/pr-5/images/icon.png" }
+    },
+    "url": "/preview/pr-5"
+  }
+</script>
+
+<link rel="alternate" type="application/rss+xml" href="/preview/pr-5/feed.xml">
+
+  
+    <meta name="robots" content="noindex, nofollow">
+  
+  <!-- Google Fonts -->
+<!-- automatically get url from fonts used in theme file -->
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
+
+<!-- Font Awesome icons (load asynchronously due to size) -->
+
+<link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
+<noscript>
+  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
+</noscript>
+
+  <!-- third party styles -->
+<!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
+<link href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css" rel="stylesheet">
+
+<!-- include all sass in styles folder -->
+
+
+  
+    <link href="/preview/pr-5/_styles/-theme.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/alert.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/all.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/anchor.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/background.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/body.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/bold.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/button.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/card.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/checkbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/citation.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/code.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/cols.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/details.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/feature.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/figure.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/float.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/font.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/footer.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/form.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/grid.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/header.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/heading.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/hero.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/highlight.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/icon.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/image.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/link.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/list.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/main.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/paragraph.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/portrait.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/post-excerpt.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/post-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/post-nav.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/quote.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/rule.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/search-box.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/search-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/section.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/table.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/tags.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/textbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/tooltip.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-5/_styles/util.css" rel="stylesheet">
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+<!-- include all css in styles folder -->
+
+
+
+  <!-- third party scripts -->
+<script src="https://unpkg.com/@popperjs/core@2" defer></script>
+<script src="https://unpkg.com/tippy.js@6" defer></script>
+<script src="https://unpkg.com/mark.js@8" defer></script>
+
+<!-- include all js in scripts folder -->
+
+
+  <script src="/preview/pr-5/_scripts/anchors.js"></script>
+
+  <script src="/preview/pr-5/_scripts/dark-mode.js"></script>
+
+  <script src="/preview/pr-5/_scripts/fetch-tags.js"></script>
+
+  <script src="/preview/pr-5/_scripts/hero.js"></script>
+
+  <script src="/preview/pr-5/_scripts/search.js"></script>
+
+  <script src="/preview/pr-5/_scripts/site-search.js"></script>
+
+  <script src="/preview/pr-5/_scripts/table-wrap.js"></script>
+
+  <script src="/preview/pr-5/_scripts/tooltip.js"></script>
+
+
+</head>
+
+  <body>
+    
+
+
+
+
+
+
+
+<header class="background" style="--image: url('/preview/pr-5/images/home_banner.png')" data-dark="true">
+  <a href="/preview/pr-5/" class="home">
+    
+      <span class="logo">
+        
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="-40 -60 80 100">
+  <style>
+    .bubble {
+      animation: float 2s ease-out both infinite var(--delay);
+    }
+    @keyframes float {
+      0% {
+        opacity: 0;
+      }
+      50% {
+        transform: translateY(0);
+        opacity: 0;
+      }
+      75% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0;
+        transform: translateY(-40px);
+      }
+    }
+  </style>
+  <g fill="currentColor" opacity="0.5">
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.1s"></circle>
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.4s"></circle>
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 1.1s"></circle>
+  </g>
+  <path fill="#38bdf8" d="
+      M 0 -22.5
+      L -19.5 -11.25
+      L -19.5 11.25
+      L 0 22.5
+      L 19.5 11.25
+      L 19.5 -11.25
+      z
+    "></path>
+  <path fill="#bae6fd" d="
+      M 0 -22.5
+      L -19.5 -11.25
+      L 0 0
+      L 19.5 -11.25
+      z
+    "></path>
+  <path fill="none" stroke="currentColor" stroke-width="5" d="
+      M -18 -53
+      L -10 -53
+      L -10 -29.2
+      L -30.3 -17.5
+      L -30.3 17.5
+      L 0 35
+      L 30.3 17.5
+      L 30.3 -17.5
+      L 10 -29.2
+      L 10 -53
+      L 18 -53
+    "></path>
+</svg>
+
+        
+      </span>
+    
+    
+      <span class="title-text" data-tooltip="Home">
+        
+          <span class="title">WANG-BITS</span>
+        
+        
+          <span class="subtitle">Biological Intelligence Theory and Systems</span>
+        
+      </span>
+    
+  </a>
+
+  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+
+  <nav>
+    
+    
+      
+        <a href="/preview/pr-5/research/" data-tooltip="Research areas, projects, and publications">
+          Research
+        </a>
+      
+    
+      
+        <a href="/preview/pr-5/team/" data-tooltip="About our team">
+          Team
+        </a>
+      
+    
+      
+        <a href="/preview/pr-5/resources/" data-tooltip="Code, data, equipment, and facilities">
+          Resources
+        </a>
+      
+    
+      
+        <a href="/preview/pr-5/contact/" data-tooltip="Get in touch">
+          Contact
+        </a>
+      
+    
+  </nav>
+</header>
+
+    
+    <main>
+      <!--
+  modify main content of page:
+  - add section breaks
+  - attach section properties
+  - filter out blank sections
+-->
+
+
+
+
+
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <h1 id="generative-models-of-neural-activity">Generative models of neural activity</h1>
+
+<p><em>Neural data modeling on high-density microelectrode arrays</em> · <strong>Status:</strong> ongoing</p>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h2 id="overview">Overview</h2>
+
+<p>High-density CMOS microelectrode arrays (HD-MEAs) record extracellular activity from lab-grown neural tissue across tens of thousands of electrode sites at millisecond resolution. That makes them a natural readout for synthetic biological intelligence and organoid research, but the data are unusual for machine learning: activity is extremely sparse (most electrode-time bins are empty), only a subset of electrodes is routed in any recording, and that subset changes from one recording to the next.</p>
+
+<p>Summary statistics such as firing rates, burst counts, and interspike intervals are useful for quality control, but they are not a generative description of the network’s state. Two recordings can have similar spike counts while differing in which sites participate, in what order, and whether activity spreads across the network.</p>
+
+<h2 id="approach">Approach</h2>
+
+<p>We treat the electrode array as a fixed spatial canvas and learn a discrete vocabulary of spatiotemporal activity motifs:</p>
+
+<ul>
+  <li>
+<strong>A sparse tokenizer.</strong> Recordings are split into small spatiotemporal patches. Empty patches get a dedicated blank token, and active patches are encoded by a residual vector-quantized autoencoder into a shared alphabet of motifs.</li>
+  <li>
+<strong>A factorized generative prior.</strong> A masked transformer first predicts <em>where</em> activity occurs, then <em>which</em> motif appears at each active location, mirroring the structure of the data.</li>
+  <li>
+<strong>Shared across preparations.</strong> The model is trained on publicly released HD-MEA recordings of human brain organoids and acute human hippocampal tissue from our collaborators’ labs, recorded on the same platform, so a single vocabulary covers both.</li>
+</ul>
+
+<p>The learned motifs are broadly reused: recording identity explains only a small fraction of which motifs are used, and motif overlap between organoids and tissue slices is comparable to overlap within each.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="Reconstructing activity from motif tokens, for two brain-organoid recordings A, B and two ex vivo hippocampal recordings C, D . Blue marks correctly reconstructed spikes, red missed spikes, and yellow spurious ones; the right column is each recording s site map. The bottom row compares summary statistics of real and reconstructed clips across the test set. From Tanveer et al., arXiv:2609.23907.">
+    <img src="/preview/pr-5/images/projects/figures/tokenizer-reconstruction.png" style="
+        width: auto;
+        max-height: unset;
+      " alt="Reconstructing activity from motif tokens, for two brain-organoid recordings A, B and two ex vivo hippocampal recordings C, D . Blue marks correctly reconstructed spikes, red missed spikes, and yellow spurious ones; the right column is each recording s site map. The bottom row compares summary statistics of real and reconstructed clips across the test set. From Tanveer et al., arXiv:2609.23907." loading="lazy" onerror="this.src = '/preview/pr-5/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+    <figcaption class="figure-caption">
+      Reconstructing activity from motif tokens, for two brain-organoid recordings (A, B) and two ex vivo hippocampal recordings (C, D). Blue marks correctly reconstructed spikes, red missed spikes, and yellow spurious ones; the right column is each recording’s site map. The bottom row compares summary statistics of real and reconstructed clips across the test set. From Tanveer et al., arXiv:2609.23907.
+
+    </figcaption>
+  
+</figure>
+
+<p>The same model can generate activity as well as reconstruct it. Given nothing, it generates an entire clip; given part of a clip, it completes the rest, whether that means predicting later frames from earlier ones, filling a gap in time, or filling in a region of the array.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="One recorded clip under four tasks: free generation with nothing observed R , causal completion of later frames C , non-causal completion of a gap in time N , and spatial completion of part of the array S . Gray panels are observed and black panels are generated. From Tanveer et al., arXiv:2609.23907.">
+    <img src="/preview/pr-5/images/projects/figures/generation-and-completion.png" style="
+        width: auto;
+        max-height: unset;
+      " alt="One recorded clip under four tasks: free generation with nothing observed R , causal completion of later frames C , non-causal completion of a gap in time N , and spatial completion of part of the array S . Gray panels are observed and black panels are generated. From Tanveer et al., arXiv:2609.23907." loading="lazy" onerror="this.src = '/preview/pr-5/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+    <figcaption class="figure-caption">
+      One recorded clip under four tasks: free generation with nothing observed (R), causal completion of later frames (C), non-causal completion of a gap in time (N), and spatial completion of part of the array (S). Gray panels are observed and black panels are generated. From Tanveer et al., arXiv:2609.23907.
+
+    </figcaption>
+  
+</figure>
+
+<h2 id="whats-next">What’s next</h2>
+
+<ul>
+  <li>
+<strong>Better temporal prediction.</strong> The motif vocabulary preserves more timing information than the current prior recovers, so we are developing causal sequence priors and event-time objectives that predict upcoming activity more accurately.</li>
+  <li>
+<strong>Conditioning on measured variables.</strong> Replacing per-recording identity with descriptors of the preparation and the recording, so the model can transfer to recordings it has never seen.</li>
+  <li>
+<strong>Longer term.</strong> A model that predicts future activity under given conditions is the forward model that closed-loop training of living neural networks would need, and a baseline for measuring how networks respond to stimulation or disease.</li>
+</ul>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h2 id="code-and-data">Code and data</h2>
+
+<p>The code and the datasets used in this project are listed on our <a href="../../resources/">Resources</a> page.</p>
+
+<h2 id="related-publications">Related publications</h2>
+
+<div class="citation-container">
+  <div class="citation">
+    
+      <a href="https://arxiv.org/abs/2609.23907" class="citation-image" aria-label="A discrete generative model of neuronal spiking activity on microelectrode arrays">
+        <img src="/preview/pr-5/images/publications/generative-model.png" alt="A discrete generative model of neuronal spiking activity on microelectrode arrays" loading="lazy" onerror="this.src = '/preview/pr-5/images/fallback.svg'; this.onerror = null;">
+      </a>
+    
+
+    <div class="citation-text">
+      
+      <i class="icon fa-regular fa-eye"></i>
+
+      <a href="https://arxiv.org/abs/2609.23907" class="citation-title">
+        A discrete generative model of neuronal spiking activity on microelectrode arrays
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Md Sayed Tanveer, Mohammed A. Mostajo-Radji, Ge Wang
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">arXiv</span>
+         · 
+        <span class="citation-date">22 Sep 2026</span>
+         · 
+        <span class="citation-id">arxiv:2609.23907</span>
+      </div>
+
+      
+        
+          <div class="citation-description">
+            A discrete generative model of neuronal spiking activity recorded on high-density microelectrode arrays. A residual vector-quantized autoencoder learns a shared vocabulary of spatiotemporal motifs, and a factorized masked transformer generates array-wide activity, evaluated on human brain organoids and ex vivo human hippocampal tissue.
+
+          </div>
+        
+
+        
+          <div class="citation-buttons">
+            
+              
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://github.com/tanveerderik/Organoid-Binary-Spike-Spatiotemporal-Data-Modeling" data-tooltip="Source code" data-style="bare" aria-label="Source code">
+      <i class="icon fa-brands fa-github"></i>
+      
+        <span>Code</span>
+      
+    </a>
+  </div>
+
+
+            
+              
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://doi.org/10.25349/D9031Z" data-tooltip="Data" data-style="bare" aria-label="Data">
+      <i class="icon fa-solid fa-database"></i>
+      
+        <span>Organoid data</span>
+      
+    </a>
+  </div>
+
+
+            
+              
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://dandiarchive.org/dandiset/001132" data-tooltip="Data" data-style="bare" aria-label="Data">
+      <i class="icon fa-solid fa-database"></i>
+      
+        <span>Hippocampal data</span>
+      
+    </a>
+  </div>
+
+
+            
+          </div>
+        
+
+        
+          
+
+
+  <div class="tags" data-link="/preview/pr-5/projects/neural-data-modeling/">
+    
+      <a href="/projects/neural-data-modeling/?search=%22tag:%20neuroai%22" class="tag" data-tooltip='Show items with the tag "neuroai"'>
+        neuroai
+      </a>
+    
+      <a href="/projects/neural-data-modeling/?search=%22tag:%20neural-data-modeling%22" class="tag" data-tooltip='Show items with the tag "neural-data-modeling"'>
+        neural-data-modeling
+      </a>
+    
+      <a href="/projects/neural-data-modeling/?search=%22tag:%20generative-models%22" class="tag" data-tooltip='Show items with the tag "generative-models"'>
+        generative-models
+      </a>
+    
+      <a href="/projects/neural-data-modeling/?search=%22tag:%20brain-organoids%22" class="tag" data-tooltip='Show items with the tag "brain-organoids"'>
+        brain-organoids
+      </a>
+    
+  </div>
+
+
+        
+      
+    </div>
+  </div>
+</div>
+
+<h2 id="people">People</h2>
+
+<div class="portrait-wrapper">
+  <a href="/preview/pr-5/members/ms-tanveer.html" class="portrait" data-style="" aria-label="Tanveer Derik Azam">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
+    <img src="/preview/pr-5/images/team_current_member_derik.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/preview/pr-5/images/fallback.svg'; this.onerror = null;">
+
+    
+      <span class="portrait-name">
+        Tanveer (Derik) Azam
+      </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD Student
+      </span>
+    
+
+    
+      <span class="portrait-affiliation">
+        Rensselaer Polytechnic Institute
+      </span>
+    
+  </a>
+</div>
+
+<div class="portrait-wrapper">
+  <a href="/preview/pr-5/members/ge-wang.html" class="portrait" data-style="" aria-label="Ge Wang">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
+    <img src="/preview/pr-5/images/team_pi_ge_wang.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/preview/pr-5/images/fallback.svg'; this.onerror = null;">
+
+    
+      <span class="portrait-name">
+        Ge Wang
+      </span>
+    
+
+    
+      <span class="portrait-description">
+        Principal Investigator
+      </span>
+    
+
+    
+      <span class="portrait-affiliation">
+        Rensselaer Polytechnic Institute
+      </span>
+    
+  </a>
+</div>
+  </section>
+
+
+    </main>
+    
+
+
+<footer class="background" style="--image: url('/preview/pr-5/images/home_banner.png')" data-dark="true" data-size="wide">
+  <!--
+    <div>
+      Extra details like contact info or address
+    </div>
+  -->
+
+  <div>
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="mailto:wangg6@rpi.edu" data-tooltip="Email" data-style="bare" aria-label="Email">
+      <i class="icon fa-solid fa-envelope"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://orcid.org/0000-0002-2656-7705" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
+      <i class="icon fa-brands fa-orcid"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://scholar.google.com/citations?user=pjK2mQwAAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
+      <i class="icon fa-brands fa-google"></i>
+      
+    </a>
+  </div>
+
+
+    
+  </div>
+
+  <div>
+    © 2026
+    WANG-BITS
+      |   Built with
+    <a href="https://github.com/greenelab/lab-website-template">
+      Lab Website Template
+    </a>
+  </div>
+
+  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
+</footer>
+
+  </body>
+</html>
