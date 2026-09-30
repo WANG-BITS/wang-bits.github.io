@@ -1,0 +1,6 @@
+{% assign image = page.hero | default: site.hero %}
+{% if image %}
+  <div class="hero" aria-hidden="true">
+    <img src="{{ image | relative_url | uri_escape }}" alt="" fetchpriority="high">
+  </div>
+{% endif %}

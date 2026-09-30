@@ -3,7 +3,10 @@
 
 # WANG-BITS Lab
 
-The Bioengineered Intelligence Theory and Systems (BITS) Lab is led by [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang) and affiliated with the [Center for Biotechnology and Interdisciplinary Studies](https://biotech.rpi.edu/) and the [Department of Biomedical Engineering](https://bme.rpi.edu/) at [Rensselaer Polytechnic Institute](https://www.rpi.edu/). We work on **NeuroAI**, the intersection of neuroscience and artificial intelligence: modeling the activity of lab-grown neural networks and brain organoids with deep learning, and building toward synthetic biological intelligence, where living neurons are interfaced with electronics and trained to perform tasks.
+**Biological Intelligence Theory and Systems**
+{:.center .lead}
+
+The BITS Lab is led by [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang) and affiliated with the [Center for Biotechnology and Interdisciplinary Studies](https://biotech.rpi.edu/) and the [Department of Biomedical Engineering](https://bme.rpi.edu/) at [Rensselaer Polytechnic Institute](https://www.rpi.edu/). We work on **NeuroAI**, the intersection of neuroscience and artificial intelligence: modeling the activity of lab-grown neural networks and brain organoids with deep learning, and building toward synthetic biological intelligence, where living neurons are interfaced with electronics and trained to perform tasks.
 
 BITS is part of Dr. Wang's Biomedical Imaging Center, alongside our sister lab [Wang-AXIS](https://wang-axis.github.io/), and works in collaboration with the [Braingeneers](https://braingeneers.ucsc.edu/) group at UC Santa Cruz and [Cortical Labs](https://corticallabs.com/).
 
@@ -12,7 +15,7 @@ BITS is part of Dr. Wang's Biomedical Imaging Center, alongside our sister lab [
 ## News
 
 <ul class="news">
-{% for item in site.data.news limit: 5 %}
+{% for item in site.data.news limit: 8 %}
   <li><strong>{{ item.date | date: "%b %Y" }}</strong> · {{ item.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</li>
 {% endfor %}
 </ul>
@@ -50,7 +53,7 @@ Our ongoing projects include generative models of spiking activity on high-densi
 
 {%
   include button.html
-  link="projects"
+  link="research#projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -62,7 +65,7 @@ Our ongoing projects include generative models of spiking activity on high-densi
 {%
   include feature.html
   image="images/projects/neural-data-modeling.png"
-  link="projects"
+  link="research#projects"
   title="Our Projects"
   flip=true
   style="bare"
