@@ -12,7 +12,7 @@
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
   {% endif %}
-  {% if page.url == "/" %}
+  {% if page.url == "/" and site.hero == nil %}
     data-big
   {% endif %}
 >

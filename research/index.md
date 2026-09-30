@@ -2,7 +2,8 @@
 title: Research
 nav:
   order: 1
-  tooltip: Research areas and publications
+  tooltip: Research areas, projects, and publications
+redirect_from: /projects/
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
@@ -24,6 +25,23 @@ Synthetic Biological Intelligence (SBI) and Organoid Intelligence (OI) embed liv
 ### {% include icon.html icon="fa-solid fa-heart-pulse" %}Neural function in health and disease
 
 In the longer term, we aim to use models of neural activity to study how in vitro neural networks respond to electrical, optical, and mechanical stimulation, and how they are altered in neurodegenerative diseases such as Alzheimer's and Parkinson's disease and in neurodevelopmental disorders such as ADHD and autism spectrum disorder.
+
+{% include section.html %}
+
+## Projects
+
+Our projects span computational modeling of neural recordings, using publicly released data from our collaborators' labs, and building the experimental side of synthetic biological intelligence. Select a project to read more about it.
+
+{% include list.html component="card" data="projects" filter="group == 'ongoing'" %}
+
+{% assign past = site.data.projects | where: "group", "past" %}
+{% if past.size > 0 %}
+
+### Past projects
+
+{% include list.html component="card" data="projects" filter="group == 'past'" %}
+
+{% endif %}
 
 {% include section.html %}
 

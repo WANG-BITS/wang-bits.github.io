@@ -44,6 +44,13 @@
     - Synthetic biological intelligence
     - Organoid intelligence
 
+- id: doi:10.1016/j.patter.2025.101231
+  type: paper
+  image: images/publications/dimensionality-dynamics.png
+  description: An invited perspective, prompted by the Nobel Prize awarded to Hinton and Hopfield, proposing next-generation neural networks with added dimensionality (intra-layer links and network height) and dynamics (feedback loops across scales), inspired by physics-driven models and biological cognition.
+  tags:
+    - NeuroAI
+
 - id: doi:10.1038/s42256-023-00666-w
   type: paper
   image: images/publications/dishbrain.png
