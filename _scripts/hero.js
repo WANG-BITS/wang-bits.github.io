@@ -1,5 +1,5 @@
 /*
-  homepage banner: gently dim and zoom the fixed background banner as page
+  site banner: gently dim and zoom the fixed background banner as page
   content scrolls up over it
 */
 

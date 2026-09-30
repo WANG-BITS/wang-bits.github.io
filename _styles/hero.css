@@ -20,6 +20,10 @@ body.has-hero {
 }
 
 .hero-spacer {
+  height: clamp(90px, 18vh, 180px);
+}
+
+body.is-home .hero-spacer {
   height: min(48vh, 460px);
 }
 
@@ -60,6 +64,9 @@ body.has-hero main {
 
 @media (max-width: 600px) {
   .hero-spacer {
+    height: 70px;
+  }
+  body.is-home .hero-spacer {
     height: 30vh;
   }
   body.has-hero main {
