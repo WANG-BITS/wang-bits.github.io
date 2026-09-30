@@ -2,10 +2,10 @@
 title: WANG-BITS
 subtitle: Biological Intelligence Theory and Systems
 description: "Bioengineered Intelligence Theory and Systems (BITS) Lab at Rensselaer Polytechnic Institute, led by Dr. Ge Wang. We work on NeuroAI: deep generative models of neural activity recorded from lab-grown neural networks and brain organoids, and synthetic biological intelligence, where living neurons are interfaced with electronics and trained to perform tasks."
-header: images/home_banner.png
+header: images/home_hero.jpg
 # full-brightness banner shown below the header on the homepage (remove to go back to the big dark header)
 hero: images/home_hero.jpg
-footer: images/home_banner.png
+footer: images/home_hero.jpg
 proofer: false
 
 # hide the site from search engines while it is under review; set to false (or remove) to allow indexing
